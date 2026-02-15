@@ -1,0 +1,844 @@
+Neil J. Rowan,
+Peatlands-based demonstration of bioeconomy innovations at scale to help achieve many of the United Nation’s Sustainable Development Goals,
+Resources, Environment and Sustainability,
+Volume 21,
+2025,
+100238,
+ISSN 2666-9161,
+https://doi.org/10.1016/j.resenv.2025.100238.
+(https://www.sciencedirect.com/science/article/pii/S2666916125000507)
+Abstract: Development of wet peatland innovation (Paludiculture) offers significant potential for the alternative and sustainable use of land for addressing new viable commercial green opportunities. However, the lack of appropriate demonstration facilities has limited the development of Paludiculture. There is a substantial knowledge gap surrounding the design, tangible use and scaling of novel bioeconomy demonstration sites to meet emerging paludiculture innovation and for tailoring strategic policies to unlock regulatory shortcomings. This review addresses the important development of a novel integrated multitrophic aquaculture (IMTA) site for demonstrating paludiculture innovation at scale in rewetted peatlands. It addresses novel enablers, drivers and shortcomings for advancing emerging bioeconomy needs using a Penta-helix multiactor framework that meets effective resource management, biomass recycling, pollution control, sustainable production, risk management and predictability. Findings revealed that duckweed growth from this IMTA site (ca. area of 12,800 m2) can remediate 0.78 T yr −1 of total nitrogen and 0.38 T yr −1 of total phosphorous from fish waste stream yielding ca. 500 T per yr −1 duckweed biomass of high protein content (21.84 ± 2.45%). Next generation sequencing and bioinformatic analysis of Illumina and MinION data from the channels revealed a total of 982 species from 341 genera across nine phyla of microalgae that offer future potential to be biorefined on site for new high value products. Additionally, identification of specific microalgae and/or bacterial species can be used as early warning bioindicators of unwanted flux in the defined IMTA ecosystem, such as the impact of extreme weather events on aquaculture. Implications of findings support a strong alignment with zero-waste and zero-pollution principles and will contribute to achieving many of the United Nation’s Sustainable Development Goals. This integrated approach provides a novel IMTA blueprint for replicating paludiculture innovation in other demonstration locations globally that will be informed by future tailored life cycle assessment along with end-user evaluation and monitoring needs that addresses circularity, environmental and social impacts.
+Keywords: Cleaner production; Resource management; Sustainable development; Design for development; Bioeconomy demonstration; Peatlands innovation
+
+Valentina Marturano, Angela Marotta, Sarai Agustin Salazar, Veronica Ambrogi, Pierfrancesco Cerruti,
+Recent advances in bio-based functional additives for polymers,
+Progress in Materials Science,
+Volume 139,
+2023,
+101186,
+ISSN 0079-6425,
+https://doi.org/10.1016/j.pmatsci.2023.101186.
+(https://www.sciencedirect.com/science/article/pii/S0079642523001184)
+Abstract: In recent decades, the strong global concern on depletion of fossil fuel and the environmental impact of oil-based compounds has pushed towards more sustainable approaches in the development of polymer-based materials. This interest is driven by the need of a more sustainable economy and a lower dependency on fossil fuels. In this frame, the replacement of synthetic additives with natural compounds in polymer commodities is progressively taking place. Additionally, according to forecasts, the production of bio-plastics will grow exponentially in the near future. However, these materials may exhibit poor physical and mechanical properties regarding processability and end-use, which can limit their potential for applications. Therefore, academic and industrial communities are pushing their interest in fully bio-based formulations with improved performance, and tailored for specific applications, ranging from packaging to biomedicine. This review presents the most recent advances in research and development of bio-based functional additives for polymeric materials. For each type of additive, both the scientific fundamentals and the technological aspects are encompassed, with an emphasis on the current commercially available bio-based additives and their role in market uptake of environmentally friendly products. Finally, considerations about environmental, health, regulatory, and economic issues related to the use of bio-additives in plastic materials are also addressed.
+Keywords: Bio-based polymer additives; Functional additives; Antioxidants; Plasticizers; Melt stabilizers; Compatibilizers; Flame retardants; Processing aids; Antimicrobials; Sustainability and safety; Economic and legislative issues
+
+Neil J. Rowan,
+Challenges and future opportunities to unlock the critical supply chain of personal and protective equipment (PPE) encompassing decontamination and reuse under emergency use authorization (EUA) conditions during the COVID-19 pandemic: Through a reflective circularity and sustainability lens,
+Science of The Total Environment,
+Volume 866,
+2023,
+161455,
+ISSN 0048-9697,
+https://doi.org/10.1016/j.scitotenv.2023.161455.
+(https://www.sciencedirect.com/science/article/pii/S0048969723000700)
+Abstract: Severe acute respiratory syndrome Coronavirus-2 (SARS-CoV-2), and the resulting coronavirus disease (COVID-19), was declared a public health emergency of global concern by the World Health Organization (WHO) in the early months of 2020. There was a marked lack of knowledge to inform national pandemic response plans encompassing appropriate disease mitigation and preparation strategies to constrain and manage COVID-19. For example, the top 16 “most cited” papers published at the start of the pandemic on core knowledge gaps collectively constitute a staggering 29,393 citations. Albeit complex, appropriate decontamination modalities have been reported and developed for safe reuse of personal and protective equipment (PPE) under emergency use authorization (EUA) where critical supply chain shortages occur for healthcare workers (HCWs) caused by the COVID-19 pandemic. Commensurately, these similar methods may provide solutions for the safe decontamination of enormous volumes of PPE waste promoting opportunities in the circular bioeconomy that will also protect our environment, habitats and natural capital. The co-circulation of the highly transmissive mix of COVID-19 variants of concern (VoC) will continue to challenge our embattled healthcare systems globally for many years to come with an emphasis placed on maintaining effective disease mitigation strategies. This viewpoint article addresses the rationale and key developments in this important area since the onset of the COVID-19 pandemic and provides an insight into a variety of potential opportunities to unlock the long-term sustainability of single-use medical devices, including waste management.
+Keywords: Sustainability; PPE reuse; Medical device supply chain; COVID-19 SARS-CoV-2; Sterilization decontamination; Circularity
+
+Max Mittenzwei, Daniel Schiller,
+Bioeconomy innovation within traditional value chains: The example of the sugar industry in three European regions,
+Progress in Economic Geography,
+Volume 3, Issue 1,
+2025,
+100035,
+ISSN 2949-6942,
+https://doi.org/10.1016/j.peg.2024.100035.
+(https://www.sciencedirect.com/science/article/pii/S2949694224000294)
+Abstract: Innovation is seen as the critical driver of a sustainable bioeconomy, but its success depends on sector specific factors and value chain configurations. The agri-food sector is characterised as being low-tech with a high centralisation of power within the value chain, which might be a barrier to innovation and the implementation of sustainable bioeconomy principles. Based on empirical findings from the sugar industry in three European regions, we argue in this paper that neither a lack of innovation, nor a purely hierarchical implementation of innovations can be unanimously supported. Evidence can be found for biomass producers that are very open to innovation and who are embedded in quite diversified regional knowledge production and diffusion systems. Nevertheless, sustainability concerns do not tend to be the main drivers of innovation in the sugar industry and innovation remains incremental. It is seen as more critical to increase efficiency, reduce costs, and add more value from side streams. As an implicit result, however, the associated innovations also promote the implementation of principles of a sustainable bioeconomy.
+Keywords: Bioeconomy; Regional innovation; Low-tech industries; Value chains
+
+Vincenzo Del Duca, Cristina Ponsiglione, Simonetta Primario, Serena Strazzullo,
+Towards economic, environmental, and societal sustainable world: Reviewing the interplay of methodologies, variables, and impacts in energy transition models,
+Journal of Cleaner Production,
+Volume 479,
+2024,
+144074,
+ISSN 0959-6526,
+https://doi.org/10.1016/j.jclepro.2024.144074.
+(https://www.sciencedirect.com/science/article/pii/S0959652624035236)
+Abstract: Green energy transition models provide frameworks for policymakers, businesses, and stakeholders to plan and implement the shift toward more sustainable energy systems. These models evolve as technologies advance, policies change, and societal priorities shift, highlighting the importance of flexibility and adaptation in energy transition planning. This study presents a systematic literature review of 115 papers to elucidate methodological approaches, variables, and assessed impacts involved in these models. The descriptive analysis of the sample reveals a burgeoning interest in this pivotal domain alongside a conspicuous dearth of consolidated model and methodological approaches for evaluating the multifaceted environmental, societal, and economic impacts of green energy transition processes. Our results show a broad spectrum of methodological approaches proposed in the literature, with Agent-Based Modeling & Simulation and Statistical Methodologies emerging as prominently featured methodologies. Through a rigorous content analysis of the article sample, we developed a taxonomy of variables that encompasses environmental, economic, societal, governance, knowledge, and technological domains. Then, to elucidate the intricate relationships between output variables and methodologies, we utilised Sankey diagrams and a conceptual map to clarify the complexity inherent in studying related processes. Lastly, a meticulously crafted research agenda is outlined, derived from critical themes identified in the articles, to guide future research endeavours and contribute to advancing knowledge in the green energy transition modelling field.
+Keywords: Energy transition; Renewable energy; Model; Impacts; Review
+
+Rame Rame, Purwanto Purwanto, Sudarno Sudarno,
+Industry 5.0 and sustainability: An overview of emerging trends and challenges for a green future,
+Innovation and Green Development,
+Volume 3, Issue 4,
+2024,
+100173,
+ISSN 2949-7531,
+https://doi.org/10.1016/j.igd.2024.100173.
+(https://www.sciencedirect.com/science/article/pii/S294975312400050X)
+Abstract: In an era of climate change and increasing global environmental challenges, the importance of integrating sustainability principles into the latest industrial revolution, Industry 5.0, is becoming increasingly critical. This revolution marks a turning point from an industrial approach that focuses on efficiency and automation, to a paradigm that prioritizes collaboration between humans and machines, innovation, and harmonization with the environment. This research examines the dynamic intersection between Industry 5.0 and sustainability, emphasizing how this evolution aims to integrate human creativity and expertise with advanced technological capabilities. This report identifies emerging trends and challenges, with a focus on achieving a sustainable future through innovative practices that balance economic growth and environmental management. This article uses a literature review and multidisciplinary analysis to uncover the untapped potential of Industry 5.0 technologies in driving sustainability initiatives. It aims to enrich academic discourse with fresh insights into aligning these technologies with environmental and social goals, thereby offering practical implications for policy makers, industry leaders and sustainability practitioners.
+Keywords: Industry 5.0; Sustainability; Technological integration; Economic growth; Environmental stewardship; Innovation practices
+
+
+Index,
+Editor(s): Tonderayi S. Matambo, Riann Christian,
+In Woodhead Series in Bioenergy,
+Innovations in the Global Biogas industry,
+Woodhead Publishing,
+2025,
+Pages 511-534,
+ISBN 9780443223723,
+https://doi.org/10.1016/B978-0-443-22372-3.00023-6.
+(https://www.sciencedirect.com/science/article/pii/B9780443223723000236)
+
+Allan Soo, Ho Kyong Shon,
+A nutrient circular economy framework for wastewater treatment plants,
+Desalination,
+Volume 592,
+2024,
+118090,
+ISSN 0011-9164,
+https://doi.org/10.1016/j.desal.2024.118090.
+(https://www.sciencedirect.com/science/article/pii/S0011916424008014)
+Abstract: Given the criticality of phosphorous and the harm eutrophication causes, wastewater treatment plants (WWTP) are undergoing circular economy (CE) conversions into becoming centres for resource recovery. This framework paper identifies the environmental, societal, political, commercial, economic, consumer, regulatory, legal, infrastructural, technological, international compliance, academic, agricultural, and plant-operator factors affecting the micro, macro and meso success and failure of nutrient CE WWTP across scope classifications. From this, nutrient CE framework is not as simplistic as it looks, given the multitude of impingers that need to be considered. The lack of technological readiness and vast selection methodologies for some nutrient recovery technologies, low private-sector investment, divisive consumer perceptions, unique economic situations, localised regulatory specifications, threats of inefficient technology lock-ins, poor acceptance among farmers and WWTP operators due to infrastructural incompatibilities, lack of efficient CE supply chains, legacy infrastructure, poor digitised solutions for nutrient CE management, low training and awareness, and integration of nutrient CE WWTPs with broader society are barriers. On the contrary, nutrient CE WWTP will mainly be driven by regulations, subsidies and consumer-WWTP-farmer nutrient CE acceptances. This framework aims to tie in and provide solutions to overcoming barriers to nutrient CE WWTPs that is universally applicable. Consequently, the framework provides a holistic structure for policy, legislative, academic, agricultural, plant operators, commercial and consumer stakeholders a roadmap for the success and difficulties of nutrient CE WWTP adoption.
+Keywords: Nutrients; Circular economy; Wastewater treatment plants; Framework; Wastewater
+
+Ning Ma, Xinyue Ji, Hanchen Lin, Xinxu Zhao, Fei Wang, Xianzhi Meng, Yunqiao Pu, Arthur J. Ragauskas, Chen Huang, Chaoqun You,
+The developments in modifying functionality of lignin and its application in biocomposites,
+International Journal of Biological Macromolecules,
+Volume 318, Part 2,
+2025,
+144956,
+ISSN 0141-8130,
+https://doi.org/10.1016/j.ijbiomac.2025.144956.
+(https://www.sciencedirect.com/science/article/pii/S0141813025055096)
+Abstract: With the advancement of sustainable material innovations, renewable natural biopolymers are gradually replacing traditional metal and petroleum-based synthetic materials due to their environmental friendliness, biodegradability, and economic advantages. Lignin, the second most abundant natural aromatic polymer in the plant kingdom, has emerged as a key candidate raw material for the development of green polymer systems because of its unique phenylpropane unit network structure, high carbon content, and rich functional group characteristics. However, challenges such as the inherent structural complexity, chemical inertness, and uneven molecular weight distribution of lignin limit its direct application. By employing modification strategies such as chemical functionalization and physical regulation, researchers can precisely control its reactivity, thermal stability, and interfacial compatibility, enabling the preparation of high-performance lignin-based functional composites. This paper systematically reviews the principles and methodological advancements in lignin's multi-dimensional modification technology. It analyzes the mechanisms by which various chemical and physical modification techniques enhance the mechanical properties, functional responsiveness, and environmental adaptability of materials, and discusses innovative applications in fields such as intelligent packaging, biomedical materials, and energy storage devices. Furthermore, this review addresses the key challenges encountered in the high-value transformation of lignin, with the aim of offering a theoretical framework and technical pathway for the transformative development of lignin from agricultural and forestry by-products to functional material platforms.
+Keywords: Lignin; Modification; Functional composites; High value transformation
+
+Laura Antonella Colombo, Mario Pansera, Richard Owen,
+The discourse of eco-innovation in the European Union: An analysis of the Eco-Innovation Action Plan and Horizon 2020,
+Journal of Cleaner Production,
+Volume 214,
+2019,
+Pages 653-665,
+ISSN 0959-6526,
+https://doi.org/10.1016/j.jclepro.2018.12.150.
+(https://www.sciencedirect.com/science/article/pii/S0959652618338605)
+Abstract: In recent years, the search for innovative pathways towards sustainability has been brought to the forefront of international agenda settings. While international organisations and institutions, such as the United Nations and the European Union (EU), mobilised around the grand challenge of sustainability, on both a local and a global scale, eco-innovation as a key concept (or buzzword) started emerging and consolidating in policy documents and funding schemes. By focusing on the European context, this paper aims to explore how the discourse of eco-innovation has been framed by the EU research funding programmes Horizon 2020 since the introduction of the 2011 Eco-Innovation Action Plan. The review was conducted by using content analysis methods designed to disclose the framing of eco-innovation in the EU programmes. The article presents three main findings: the eco-innovation discourse in the EU programmes has mostly become constructed around the notion of eco-efficiency; eco-innovation is overwhelmingly framed as a dialectic between the state vs private actors whereas stakeholders in the third sector such as cooperatives, non-governmental organisations, social enterprises, and community-based initiatives are largely neglected; eco-innovation as a buzzword has been losing relevance through the years in favour of the new rising discourse of the ‘circular economy’. The article concludes by suggesting that the construction of a new discourse on circular economy may provide opportunities to embrace more eco-centric and inclusive approaches to economics, towards stronger sustainability and the more systematic inclusion of not-for-profit organisations.
+Keywords: Eco-innovation; Eco-efficiency; European Union policy; Horizon 2020
+
+Birgit Teufer, Sonja Grabner-Kräuter, Christine Bachner,
+Sustainable development outcomes of alternative consumer networks – A systematic review and logic model development,
+Cleaner and Responsible Consumption,
+Volume 15,
+2024,
+100225,
+ISSN 2666-7843,
+https://doi.org/10.1016/j.clrc.2024.100225.
+(https://www.sciencedirect.com/science/article/pii/S2666784324000585)
+Abstract: Alternative consumer networks (ACNs) have become increasingly important for promoting sustainable development. This study provides a conceptual clarification of ACNs and systematically reviews their impact on sustainable development. Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, we identified 218 peer-reviewed references that report on sustainability outcomes of ACNs at different levels, including determinants of motivation, contextual changes, behavioral changes, and social, ecological, and economic impacts. Our findings demonstrate that ACNs have a multifaceted influence on sustainability, highlighting the interconnected nature of various outcomes. This holistic approach captures the broad and significant role ACNs play in advancing sustainable practices across multiple dimensions of sustainability. We synthesized these results into a comprehensive logic model, which serves as a practical tool for systematically assessing the impact of ACNs. This model helps practitioners focusing on relevant outcomes and to develop and implement effective strategies tailored to their specific contexts. Additionally, it provides researchers with a structured framework for further study, facilitating a deeper understanding of the dynamic relationships between different sustainability outcomes.
+Keywords: Consumer networks; Sustainable development; Sustainability; Logic model; Systematic review
+
+Piergiuseppe Morone, Joel Tickner, Valentina Tartiu,
+Editorial overview: A new chemistry for a sustainable future: When green chemists meets social scientists,
+Current Opinion in Green and Sustainable Chemistry,
+Volume 8,
+2017,
+Pages A1-A3,
+ISSN 2452-2236,
+https://doi.org/10.1016/j.cogsc.2017.11.004.
+(https://www.sciencedirect.com/science/article/pii/S2452223617301025)
+
+Pulok Kumar Mukherjee, Bhaskar Das, Pardeep K. Bhardwaj, Soibam Tampha, Huidrom Khelemba Singh, Leimapokpam Demi Chanu, Nanaocha Sharma, Sarangthem Indira Devi,
+Socio-economic sustainability with circular economy — An alternative approach,
+Science of The Total Environment,
+Volume 904,
+2023,
+166630,
+ISSN 0048-9697,
+https://doi.org/10.1016/j.scitotenv.2023.166630.
+(https://www.sciencedirect.com/science/article/pii/S0048969723052555)
+Abstract: As the global population and living standards rise, it pushes the demand for basic amenities like food, health, and energy resources. Additionally, manufacturing automation has led to mass production and consumption, triggering waste production. The existing linear economy approach has led to increasing waste production and resource depletion, posing significant environmental and public health threats. To overcome these impediments, an alternative model called the circular economy concept has gained popularity in the global industry community. This closed-loop, restorative, waste-free concept has the potential to protect the environment and improve economics by reducing energy and resource consumption. Thus, major impetus should be given to strengthening the backbone of the economy where tools such as green technologies, decarbonization strategies, bio refinery processes, material flow analysis, life cycle assessment, ecological footprints (water, carbon, and material), substance flow analysis, circularity index, eco-designing, bioresource management, new business models, and policy play an essential role in the areas of socio-economic sustainability, ecological facts, and industrial aspects to enhance socio-economic growth in a sustainable manner. Sectoral awareness, collaborations, and partnerships among the Government, stakeholders, policymakers, and competent authorities are also essential to enabling circularity within the eco-systems.
+Keywords: Circular economy; Sustainable development; Bioresource management; Socioeconomic aspects; Industrial aspects; Ecological transition
+
+Xiaoxiao Zhou, Juntao Du,
+Does environmental regulation induce improved financial development for green technological innovation in China?,
+Journal of Environmental Management,
+Volume 300,
+2021,
+113685,
+ISSN 0301-4797,
+https://doi.org/10.1016/j.jenvman.2021.113685.
+(https://www.sciencedirect.com/science/article/pii/S0301479721017473)
+Abstract: The effect of environmental regulations on the nexus between financial development and biased technological innovation is a prerequisite for optimizing systems of environmental and financial policies to gain sustainable development goals (SDGs) in emerging markets. Drawing on China's city-level data from 2003 to 2018, we established econometric models and obtained the following empirical results. Financial development (FD) can promote energy- and environmental-biased technological progress, but, owing to the inverted U-shaped relationship, economic development, and resource endowment, the impact that FD has on biased technological progress is heterogeneous; unreasonable FD will also hinder green technological progress. Threshold model shows that with the improvement of environmental regulation, the impact of energy- and environmental-biased technological progress is also increasing. The development of green finance under SDGs is an important driving force in green technological progress. Finally, we offer suggestions to optimize environmental and financial policymaking and implementation from a government intervention perspective.
+Keywords: Financial development; Environmental regulation; Biased technological progress; Sustainable development goals; Green finance
+
+Mohd Ali Hassan, Mohammed Abdillah Ahmad Farid, Mohd Rafein Zakaria, Hidayah Ariffin, Yoshito Andou, Yoshihito Shirai,
+Palm oil expansion in Malaysia and its countermeasures through policy window and biorefinery approach,
+Environmental Science & Policy,
+Volume 153,
+2024,
+103671,
+ISSN 1462-9011,
+https://doi.org/10.1016/j.envsci.2024.103671.
+(https://www.sciencedirect.com/science/article/pii/S1462901124000054)
+Abstract: Time and again we hear of calls made by countries to ban palm oil over deforestation. Pressing on, the critics demand the commodity be certified as per international standards and the cultivation to comply with responsible agroecological practices. This urgent and growing concern requires the rethinking of the current operations to be restructured in such a way that it would be cleaner and greener. The Malaysian government has reaffirmed its commitment to mainstream palm oil sustainability by fully embracing United Nation Sustainable Development Goals (SDGs), following through on the 12th Malaysian Plan (2021–2025). Malaysian industry players and stakeholders also have joined hands to pursue the Roundtable on Sustainable Palm Oil (RSPO) and/or Malaysian Sustainable Palm Oil (MSPO) certification with full traceability, as part and parcel of corporate sustainability. However, downstream activities have yet to be improved. The biorefinery concept is proposed to utilize excess resources at plantations and the mills into a wide range of bioproducts and bioenergy in various applications. This review puts together the evidence of technological progress in oil palm biomass valorization, in line with the zero-emission system that will bring this to meet the circular bioeconomy agenda. Also, technological maturity and commercialization of oil palm biomass-derived products are scrutinized, underlining the challenges of the concept proposed.
+Keywords: Oil palm; Biomass; Sustainable development goals; Biorefinery, circular economy strategy; Biopolicy
+
+Marianne Ekdahl, Leonidas Milios, Carl Dalhammar,
+Industrial policy for a circular industrial transition in Sweden: An exploratory analysis,
+Sustainable Production and Consumption,
+Volume 47,
+2024,
+Pages 190-207,
+ISSN 2352-5509,
+https://doi.org/10.1016/j.spc.2024.03.031.
+(https://www.sciencedirect.com/science/article/pii/S2352550924000927)
+Abstract: Currently, both the US and the EU are pursuing industrial policies to support climate mitigation objectives. The climate transition will require increased use of material resources, but the envisioned industrial policies do not sufficiently address resource use, despite the current unsustainable global resource-use trajectory. The lack of industrial policy in this field is therefore relevant and timely to address. This exploratory contribution aims to gain an understanding on how an industrial policy for Circular Economy (CE) transition in Sweden could be designed. The methods employed are literature reviews and interviews with 18 senior experts. The research finds that a Swedish industrial policy focusing on the CE transition is needed, together with larger public investments in CE-related technologies. Few existing policy instruments functioning as industrial policy for CE are identified, but many additional instruments could potentially serve this objective. The interviews provide insights into the specific policy needs, the factors determining policy-design, and the choice of sectors and value chains for policies to target. A relevant policy mix includes policy instruments such as green tax shifting, differentiated Value Added Tax, Circular Public Procurement, funding schemes, but also an improved institutional framework. Policy criteria should be based on environmental impact, but also on potential competitive advantages, and close alignment with European Union policies. The study concludes that a policy mix combining new and expanded industrial policy instruments, focusing on correcting market failures, market creation, and capacity-building, can support a circular industrial transition.
+Keywords: Industrial policy; Circular economy; Circular industry; Green transition; Policy design
+
+Niaoer Yao, Michal Fabus, Lifeng Hu, Fangbin Qian,
+Resource efficiency and economic sustainability in APEC: Assessing the financial sector's role,
+Resources Policy,
+Volume 85, Part B,
+2023,
+103963,
+ISSN 0301-4207,
+https://doi.org/10.1016/j.resourpol.2023.103963.
+(https://www.sciencedirect.com/science/article/pii/S0301420723006748)
+Abstract: Efforts by countries worldwide to enhance the efficiency of natural resources and mitigate environmental harm are driven by a multitude of policies across various dimensions. This paper aims to investigate the relationship between the financial sector and energy efficiency in 21 APEC member countries from 2000 to 2021. Employing the CUM-FM estimation, the study reveals significant insights. The results indicate that both the green financial market and the degree of financial openness have a positive impact on increasing the efficiency of natural resources. Moreover, the size of the economy (GDP) also demonstrates a positive correlation with resource efficiency. However, the effect of the economic uncertainty index and foreign direct investment on resource efficiency in APEC member countries is found to be unfavorable. To enhance resource efficiency, the examined countries are advised to focus on expanding digital green financial markets and fostering green foreign direct investment. Additionally, the establishment of an early warning system can play a crucial role in mitigating economic uncertainty.
+Keywords: Sustainable development; Resource efficiency; Financial openness; Green finance; Panel data
+
+Piergiuseppe Morone, Loris Cottoni, Fabio Giudice,
+Chapter 3 - Biofuels: Technology, economics, and policy issues,
+Editor(s): Rafael Luque, Carol Sze Ki Lin, Karen Wilson, Chenyu Du,
+In Woodhead Publishing Series in Energy,
+Handbook of Biofuels Production (Third Edition),
+Woodhead Publishing,
+2023,
+Pages 55-92,
+ISBN 9780323911931,
+https://doi.org/10.1016/B978-0-323-91193-1.00012-3.
+(https://www.sciencedirect.com/science/article/pii/B9780323911931000123)
+Abstract: This chapter assesses biofuels from technological, economic, and policy perspectives, with the aim of understanding the technological maturity level and societal readiness for a sustainable transition toward a biobased economy. The assessment provided in this chapter shows how, stemming Geels (2002) from sociotechnical transition theory, there are several alternatives and competing biofuel technologies that differ in terms of feedstocks, refining methods and, most importantly, technoeconomic performance and environmental impacts. We distinguish first and next-generation biofuels and propose a general assessment of their production technologies. In addition, we introduce the Integrated Biorefinery as a new industrial concept to satisfy growing societal demands for green products and energy sources. We analyze the socioeconomic issues related to biofuels production, considering the impacts that biofuel development and policies can have on food security and land competition. From the macro-level landscape perspective, we assess public policy developments, especially focusing on the United States, Brazil, and the EU. We conclude that biofuel development has effects that are global and local, positive and negative, and short and long term. R&D investments and public support directed to development of next-generation biofuels and integrated biorefineries play a major role in addressing this challenge.
+Keywords: Biofuels; Sociotechnical transition; Geels; Socioeconomic issues; Policy
+
+Nour El Houda Chaher, Abdallah Nassour, Michael Nelles,
+The (FWE)2 nexus: Bridging food, food waste, water, energy, and ecosystems for circular systems and sustainable development,
+Trends in Food Science & Technology,
+Volume 154,
+2024,
+104788,
+ISSN 0924-2244,
+https://doi.org/10.1016/j.tifs.2024.104788.
+(https://www.sciencedirect.com/science/article/pii/S0924224424004643)
+Abstract: Background
+The imperative for sustainable resource management has become increasingly critical in the context of a rapidly expanding global population and heightened resource demands, compounded by the pressing challenges of climate change and environmental degradation. Traditional sector-specific approaches, which frequently isolate agriculture, energy, and water management, have proven inadequate in addressing the complex interdependencies inherent in resource ecosystems. In this regard, the Food, Food Waste, Water, Energy, and Ecosystems ((FWE)2) nexus framework emerges as a transformative paradigm that advocates for an integrated understanding of these interconnected components. This framework is essential for the implementation of comprehensive strategies designed to address the multifaceted sustainability challenges confronting contemporary society.
+Scope and Approach
+The current research undertakes a comprehensive investigation of the (FWE)2 nexus framework, elucidating the dynamic interactions among food systems, waste management, water utilization, energy production, and ecosystem integrity. Through an extensive synthesis of the current literature, illustrative case studies, and empirical analyses, multifaceted dynamics inherent to the nexus were outlined. Key themes prominently featured include the necessity of conceptualizing food waste (FW) as a critical resource, the strategic deployment of technology to enhance operational efficiency, and the integration of circular economy principles to optimize resource utilization. Collectively, these elements advocate for sustainable practices that can yield substantive benefits for society and the environment.
+Policy implications and key findings
+The (FWE)2 nexus framework is essential for tackling the intertwined challenges of food production, FW management, water resources, energy consumption, and ecosystem health. Policymakers should prioritize collaborative efforts that unite government agencies, businesses, and communities. This synergy can create comprehensive strategies that enhance resource governance and improve global food security. Additionally, initiatives focused on public education and community engagement are vital, empowering individuals to actively participate in sustainable resource management and fostering significant societal and environmental benefits. This research demonstrates the considerable potential of the (FWE)2 nexus framework in advancing several Sustainable Development Goals (SDGs). Optimizing agricultural practices and reducing FW directly support SDG 2 (Zero Hunger) by enhancing food security and nutrition. Furthermore, Considering FW as a valuable resource aligns with SDG 12 (Responsible Consumption and Production), promoting sustainable consumption and waste reduction through circular economy principles that facilitate nutrient recovery and renewable energy generation. Moreover, effective FW management significantly contributes to SDG 6 (Clean Water and Sanitation) by promoting water conservation and improving water quality. The framework also underscores energy efficiency and the use of renewable energy sources in food production and waste management, thereby supporting SDG 7 (Affordable and Clean Energy). In addition, it plays a crucial role in SDG 13 (Climate Action) by reducing greenhouse gas emissions linked to food waste and resource overconsumption. By aligning these strategic efforts with the broader SDG framework, the (FWE)2 nexus framework actively contributes to the global sustainability agenda, offering actionable pathways toward sustainable development that benefit current and future generations.
+Keywords: Nexus; Food; Food waste; Water; Energy; Ecosystem; Sustainability
+
+Marius Angstmann,
+From waste to value? Valuation and materiality in geographies of industrial by-product use,
+Progress in Economic Geography,
+Volume 3, Issue 1,
+2025,
+100034,
+ISSN 2949-6942,
+https://doi.org/10.1016/j.peg.2024.100034.
+(https://www.sciencedirect.com/science/article/pii/S2949694224000282)
+Abstract: Discussions about the environmental impacts of production and consumption are fuelling interest in strategies to transform industrial regions. While economic geography and regional development research extensively cover sustainable innovation and green regional development, innovation diffusion, demand-side aspects, and market emergence are often neglected. This paper illustrates how an enhanced valuation perspective that integrates materiality more directly helps to assess dynamic social processes of valuation in the case of low-carbon, resource efficient solutions. Through a path tracing approach, the paper assesses how two industrial by-products, slag sand and fly ash, evolved into highly valued secondary resources in Germany's Ruhr. Regional availability, market devices, and institutional work influence different dimensions of market valuation in waste-to-value processes. Insights on different phases of the development provide hint on how to organise and foster regional circular solutions. Findings may inform research and policy to advance emerging green industries, market creation for sustainable resources, and industrial decarbonisation, where the materiality of technologies and resources plays a key role.
+Keywords: Market valuation; Decarbonization; Materiality; Secondary resources; Industrial symbiosis; Economic geography
+
+Nan-Hua Nadja Yang, Aidong Yang,
+Urban bioeconomy: Uncovering its components, impacts and the Urban Bio-Symbiosis,
+Cleaner Production Letters,
+Volume 3,
+2022,
+100015,
+ISSN 2666-7916,
+https://doi.org/10.1016/j.clpl.2022.100015.
+(https://www.sciencedirect.com/science/article/pii/S2666791622000136)
+Abstract: Rapid urbanisation has marked recent human history with more than 50% of the world's population now living in urban areas while the percentage and the overall population are still growing. Resource consumption is conglomerated in urban settlements which depend primarily on externally supplied and often fossil-based products. With the aim to transform cities sustainably from resource sinks to regenerative hubs, the concept of the Urban Bioeconomy poses a potential alternative to the current economic system. While the concept has been in discussion among practitioners and a few researchers, its meaning is not well established. Therefore, this study proposes a definition of the Urban Bioeconomy based on a systematic literature review, which focused on identifying its components, impacts and potential synergies within bioeconomic sectors, namely the ‘Urban Bio-Symbiosis’. This work highlights existing and emerging bioeconomic components within cities such as urban farming, biowaste valorisation methods and green infrastructure techniques. It outlines opportunities and challenges of the Urban Bioeconomy by presenting potential positive and negative environmental, economic, social and health impacts. Based on these results, it identifies the potential of the Urban Bio-Symbiosis and Resource Circularity as promising solutions to bring about synergistic effects between different urban bioeconomic components themselves and with the other parts of the economy. By proposing a definition of the Urban Bioeconomy, this work sets the ground for further research in this field.
+Keywords: Urban bioeconomy; Definition; Urban farming; Urban biowaste valorisation; Urban green infrastructure; Urban bio-symbiosis; Urban agriculture
+
+Sergio Rubio, Tânia Rodrigues Pereira Ramos, Manuel Maria Rodrigues Leitão, Ana Paula Barbosa-Povoa,
+Effectiveness of extended producer responsibility policies implementation: The case of Portuguese and Spanish packaging waste systems,
+Journal of Cleaner Production,
+Volume 210,
+2019,
+Pages 217-230,
+ISSN 0959-6526,
+https://doi.org/10.1016/j.jclepro.2018.10.299.
+(https://www.sciencedirect.com/science/article/pii/S0959652618333328)
+Abstract: European countries are attempting to promote sustainable development by transitioning from a linear to a circular economy, where waste is to be prevented and recycling activities are promoted. This paper studies the implementation of Extended Producer Responsibility (EPR) policies for the packaging waste in two later European adopter countries of waste management policies: Portugal and Spain. The main goal is to evaluate whether EPR policies in both countries have achieved their basic two goals: 1) reduction of waste, and 2) increase recycling activities. Two case-studies were built based on interviews made to main waste management stakeholders. The analysis shows that the implementation of the EPR policies have had a positive impact throughout the years in both countries. Regarding the waste reduction goal, the systems have still not been completely able to detach packaging waste production from economic growth, but they have been able to promote material usage reduction directly through the Green dot fee model adopted. Regarding the increasing of recycling activities, both countries have been able to increase such rates throughout the years, in the direction of the EU targets.
+Keywords: Extended producer responsibility (EPR); Packaging waste; Circular economy; Case-studies
+
+Annukka Näyhä,
+Finnish forest-based companies in transition to the circular bioeconomy - drivers, organizational resources and innovations,
+Forest Policy and Economics,
+Volume 110,
+2020,
+101936,
+ISSN 1389-9341,
+https://doi.org/10.1016/j.forpol.2019.05.022.
+(https://www.sciencedirect.com/science/article/pii/S1389934118303563)
+Abstract: Forest-based businesses are the center of the transition to the sustainable and competitive circular bioeconomy in Finland. This study explores the transition of Finnish FBS firms to new business models, with a focus on the organizational resources and capabilities needed for transition. It also identifies the important elements in the business environment and the role of innovations in this process. The study uses thematic interviews with managers from various FBS firms and companies from interfacing sectors, all of which have operations in Finland. Despite the differences between firms, the study finds many common drivers and resources that FBS companies highlight as significant in the transition. The study results indicate that intangible and human resources are essential for the transition. An innovative, agile, flexible and encouraging organizational culture is a crucial resource. The culture should be supported by non-hierarchical top management and inspiring employees (so-called power people). Communication and marketing skills, and innovations developed by teams with diverse knowledge are essential. To successfully manage the transition, companies need a deep understanding of what the markets and society require, and they must develop long-term competiveness through future-oriented strategic thinking. Pursuing sustainability and innovativeness in internal as well as external organizational environment are essential factors. The study presents insights for the researcher community and many societal actors as well as recommendations for the FBS companies to facilitate the transition to new circular bioeconomy businesses. It also contributes to the resource-based perspectives literature, particularly the dynamic capabilities approach.
+Keywords: Forest-based sector; Finnish companies; Transition; Circular bioeconomy; Resources; Innovations
+
+Alexandru Giurca, Nicolas Befort,
+Deconstructing substitution narratives: The case of bioeconomy innovations from the forest-based sector,
+Ecological Economics,
+Volume 207,
+2023,
+107753,
+ISSN 0921-8009,
+https://doi.org/10.1016/j.ecolecon.2023.107753.
+(https://www.sciencedirect.com/science/article/pii/S0921800923000162)
+Abstract: Under the European Union's bioeconomy strategy, wood-based bioeconomy innovations are expected to produce a stream of marketable substitutive products (lignin-based products, textiles, polymers, chemicals, oils, construction materials, etc). By analyzing how different actors frame substitution, this article advances our theoretical understanding of the drop-in vs functional-innovations (DIFI) framework and critiques the current innovation trajectory that the forest-based sector has embarked upon. The proposed approach sheds light on the role that actors attribute to innovation in the bioeconomy by linking the question of expectations with technological promises and bioeconomy imaginaries. In this respect, this discussion is of relevance for bioeconomy innovation scholars, policymakers, and entrepreneurs seeking to go beyond the current “substitution is the solution” storyline of the forest industry and instead, help shape bioeconomy innovations that have the potential to bring about sustainable and transformative change.
+Keywords: Bioeconomy; Innovations; Substitution; Forest- Based Sector; Degrowth
+
+Kumari Amita Singh, Falguni Patra, Tabli Ghosh, Nikhil Kumar Mahnot, Himjyoti Dutta, Raj Kumar Duary,
+Advancing food systems with industry 5.0: A systematic review of smart technologies, sustainability, and resource optimization,
+Sustainable Futures,
+Volume 9,
+2025,
+100694,
+ISSN 2666-1888,
+https://doi.org/10.1016/j.sftr.2025.100694.
+(https://www.sciencedirect.com/science/article/pii/S2666188825002618)
+Abstract: The advent of Industry 5.0 represents a transformative shift towards integrating advanced computational technologies—such as AI, IoT, robotics, and big data—with human-centric collaboration to achieve sustainable food production systems. This systematic review examines the link between Industry 5.0 and sustainability, focusing on computational innovations, resource management, and eco-friendly practices within food industries. The study addresses the pressing challenge of balancing industrial growth with environmental stewardship and identifies the untapped potential of Industry 5.0 to enhance food safety, reduce waste, and enable personalized food solutions. Using a qualitative methodology, the review synthesizes findings from scholarly articles, industry reports, and case studies to analyze applications of smart sensors, blockchain, and robotics in optimizing supply chains, precision farming, and vertical agriculture. Results indicate that Industry 5.0 facilitates real-time monitoring, predictive analytics, and adaptive production, improving resource efficiency and minimizing environmental impacts. Smart packaging, digital twins, and AR are highlighted as emerging tools for enhancing traceability, quality control, and consumer engagement. However, high implementation costs, data management challenges, and the need for policy frameworks emerge as critical barriers. The discussion emphasizes how these challenges can be mitigated through multidisciplinary research, cross-sector collaboration, and government incentives. Overall, Industry 5.0 offers a pathway to sustainable, efficient, and personalized food systems by leveraging cutting-edge technologies while fostering human-machine collaboration. Future research should focus on scalable applications, cost-effective solutions, and regulatory alignment to accelerate Industry 5.0 adoption in food sectors. This study underscores the urgency of advancing computational technologies to shape resilient and sustainable food production systems.
+Keywords: Industry 5.0; Internet of Things; Blockchain; Digital twin; Cobots; Food industries
+
+Bhavesh Kumar, Avinash Kumar, Claudio Sassanelli, Love Kumar,
+Exploring the role of finance in driving circular economy and sustainable business practices,
+Journal of Cleaner Production,
+Volume 486,
+2025,
+144480,
+ISSN 0959-6526,
+https://doi.org/10.1016/j.jclepro.2024.144480.
+(https://www.sciencedirect.com/science/article/pii/S0959652624039295)
+Abstract: The existing economic system is mainly founded on a linear approach to gaining capital, including mining natural resources, manufacturing, consumption, and disposal. Despite the increasing attention given to the Circular Economy (CE), currently, scholarly analysis is absent into the function of finance and the prospective utility of financial developments in expediting the adoption of CE principles. Through a systematic literature review (SLR), this research aims to present a comprehensive understanding of the nexus between finance and the CE, emphasising how financial innovations can accelerate the transition towards CE. Considering 150 articles, it was found that financial innovation is a powerful driver for the transition towards a CE. Indeed, financial innovation enables organisations to integrate CE principles and environmental, social, and governance (ESG) elements into their strategic decision-making. This research unveils the need for more research and innovation in the financial sector to develop advanced financial instruments and mechanisms that can support CE acceleration. The acceleration of the global transition towards a sustainable, resource-efficient, and resilient economic model that benefits enterprises and society can be facilitated by promoting financial innovations. The analysis is grounded on the idea of CE as based on the tenets of designing out waste and pollution, keeping materials and resources in use, and regenerating natural systems. It turns out that CE is affected by a variety of factors with a final result of positive impact on the environment and society: green bonds, green loans, and finance; pay-for-performance and results-based financing mechanisms; specialised financing solution/CE-focused funds and investment strategies; and fintech in driving the CE. Finally, this study further provides new insights into the role of fintech, AI, and ML in advancing circular finance and scrutinising the hurdles and barriers to implementing circular finance practices.
+Keywords: Circular economy; Finance; financial innovations; Sustainable business practices; Sustainability-linked loans
+
+Majeti Narasimha Vara Prasad, Marzena Smol, Helena Freitas,
+Chapter 1 - Achieving sustainable development goals via green deal strategies,
+Editor(s): Majeti Narasimha Vara Prasad, Marzena Smol,
+Sustainable and Circular Management of Resources and Waste Towards a Green Deal,
+Elsevier,
+2023,
+Pages 3-23,
+ISBN 9780323952781,
+https://doi.org/10.1016/B978-0-323-95278-1.00002-4.
+(https://www.sciencedirect.com/science/article/pii/B9780323952781000024)
+Abstract: The European Union (EU) green deal initiative in 2019 was aimed at transforming the EU’s economy for a sustainable future. It is mainly meant to tackle climate change, emphasizing the following: 1.A zero pollution ambition for a toxin-free environment.2.Climate neutrality, switching from fossil fuels to nontraditional energy sources, increasing the EU’s climate ambition for 2030 and 2050.3.Limiting greenhouse gas emissions in the context of combating global warming.4.Mobilizing industry for a clean and circular economy (CE).5.Supplying clean, affordable, and secure energy.6.Large-scale job creation in the field of clean energy.7.Circular management of resources and waste (cash from trash).8.Building and renovating in an energy- and resource-efficient way.9.Accelerating the shift to sustainable and smart mobility.10.From “Farm to Fork”: designing a fair, healthy, and environment-friendly food system.11.Preserving and restoring ecosystems and biodiversity.12.Soil–agricultural innovations. In 2015 the United Nations adopted 17 sustainable development goals (see Transforming Our World: The 2030 Agenda for Sustainable Development, United Nations, 2015). As of writing this program includes 169 Targets, 3108 Events, 1307 Publications, and 5487 Actions globally. Within these goals appear several phrases that relate to global sustainable development. The Green Deal is a key element of the EU strategy to implement the United Nation’s Sustainable Development Goals (SDGs) pertinent to reducing air, water, and soil pollution, reducing the loss of biodiversity and climate change impact, while ensuring the sustainable use of energy and natural resources and the well-being of citizens. A CE is the key agenda in the European Green Deal (EGD) Strategy. The EU emerged as a global leader in climate action. European Commission President Ursula von der Leyen, declared it to be a “Man On The Moon Moment,” as the EGD aspires to provide a comprehensive framework to become the first continent to cut its emissions to net zero by 2050. Thus the EU Green Deal is a key strategy for implementing the UN SDGs. The proposed EGD has several elements that will lead toward the final goal of a climate-neutral continent.
+Keywords: Sustainable development goals; green deal; global warming; circular economy; toxin-free environment; EU common agricultural policy
+
+Cem Işık, Serdar Ongan, Hasibul Islam, Jiale Yan, Rafael Alvarado, Munir Ahmad,
+The nexus of economic growth, energy prices, climate policy uncertainty (CPU), and digitalization on ESG performance in the USA,
+Climate Services,
+Volume 38,
+2025,
+100572,
+ISSN 2405-8807,
+https://doi.org/10.1016/j.cliser.2025.100572.
+(https://www.sciencedirect.com/science/article/pii/S2405880725000330)
+Abstract: This study examines the impact of economic growth, energy prices, digitalization, and climate policy uncertainty—key macroeconomic, technological, and political factors—on ESG performance in the U.S. within a comprehensive sustainability framework to mitigate climate change. The study reveals how these variables impact different levels of ESG performance using Quantile and Quantile-on-Quantile analyses. Findings show that economic growth positively impacts ESG performance. This can be interpreted as the economy incentivizing U.S. companies to adopt and enhance their ESG practices. No significant impact of climate policy uncertainty was found. This result can be interpreted as companies mitigating the effects of climate policy uncertainty on ESG through hedging and risk management strategies. The positive relationship between energy prices and ESG indicates that higher energy costs may improve ESG performance. This can be explained by the fact that sectors facing high energy prices may invest more in sustainable practices, such as adopting renewable energy. Therefore, policymakers should encourage businesses to take individual and collective action to adopt behavior against climate change. The negative impact of digitalization on ESG performance can be explained by the rapid pace of technological change, leading business companies to prioritize profitability over ESG considerations. This result may refer to the Corporate Sustainability Theory.11Corporate Sustainability Theory emphasizes not only profitability but also the long-term environmental, social, and economic responsibilities that businesses should integrate into their models. For detailed information, refer to Kantabutra & Ketprapakorn (2020). Therefore, businesses should integrate digitalization into climate strategies through regulatory measures and enhanced corporate reporting.
+Keywords: ESG performance; Quantile-on-Quantile analysis; Digitalization; Climate change
+
+Nguyen Thi Hong Nham, Trần Thị Mai Hoa, Le Thanh Ha,
+Influences of digitalization on sustaining marine minerals: A path toward sustainable blue economy,
+Ocean & Coastal Management,
+Volume 239,
+2023,
+106589,
+ISSN 0964-5691,
+https://doi.org/10.1016/j.ocecoaman.2023.106589.
+(https://www.sciencedirect.com/science/article/pii/S096456912300114X)
+Abstract: This study's target is to experimentally discover the influence of the digital revolution, both for the public and private industries, on the sustainable development of marine mineral resources. As part of this initiative, it aims to demonstrate its influence on the development of a sustainable blue economy. Several measures are used to measure the blue economy sustainability of European countries. These measures include value added at the factor costs of crude oil extraction; gas extraction; activities related to oil and gas production; crushed stone or rock mining, clay or kaolin mining; salt extraction; as well as supporting activities engaged in the mining and quarry operations. We also use various indicators to capture digitalization performance in both the private and public sectors. During the 2009–2020 period, the European region will benefit from digital transformation in terms of improving marine minerals sustainability. Nevertheless, this effect is likely to be more apparent over the long term. Particularly, over a longer period, some aspects of digitalization in public services do have an empirically measurable effect on any components of marine minerals.
+Keywords: Digital transformation; Blue economy; Marine mineral; European countries
+
+Satu Pätäri, Anni Tuppura, Anne Toppinen, Jaana Korhonen,
+Global sustainability megaforces in shaping the future of the European pulp and paper industry towards a bioeconomy,
+Forest Policy and Economics,
+Volume 66,
+2016,
+Pages 38-46,
+ISSN 1389-9341,
+https://doi.org/10.1016/j.forpol.2015.10.009.
+(https://www.sciencedirect.com/science/article/pii/S1389934115300575)
+Abstract: The European Union has set a milestone for cutting its carbon emissions by 2030 to levels 40% below the levels of 1990 through domestic reductions, improved energy efficiency and the greater use of renewable energy sources. In parallel, the key challenge of the pulp and paper industry (PPI) is how to achieve a transformation towards a bioeconomy, as well as to realize the necessary new green innovations. Climate change, material resource scarcity and ecosystem decline are among the ten major sustainability megaforces identified by KPMG (2012), globally influencing business environments. However, the relative importance of these megaforces in the context of pulp and paper sector transformation is yet unknown. We therefore investigate the significance of these megaforces and their relation to the drivers of sustainability-related investments in the European pulp and paper sector, and identify threats and opportunities that these business environmental changes may bring about. Our results are based upon a three-round dissensus-based Delphi approach carried out with a sample of 30 high-level European PPI experts collected in 2014. The panelists identified a greater demand for energy, volatility in the fossil fuel markets and increasing material resource scarcity as the most significant sustainability megaforces shaping European PPI over the next 15years. However, all the megaforces – except for global ecosystem decline and water scarcity – were perceived more as opportunities rather than threats to European PPI business, indicating that designed energy and environmental policies have the potential to advance a paradigm change towards a bioeconomy rather than curbing the future of the European PPI.
+Keywords: Corporate sustainability; Sustainability megaforces; Megatrends; Foresight; Pulp and paper; Delphi
+
+Malin Song, Shuhong Wang, Hongyan Zhang,
+Could environmental regulation and R&D tax incentives affect green product innovation?,
+Journal of Cleaner Production,
+Volume 258,
+2020,
+120849,
+ISSN 0959-6526,
+https://doi.org/10.1016/j.jclepro.2020.120849.
+(https://www.sciencedirect.com/science/article/pii/S0959652620308969)
+Abstract: Green product innovation represented by information and communication technology (ICT) refers to an environmental production mode with innovation as the main carrier. As a key means to achieve the coordinated development of environmental protection and economic development, green product innovation is still in the lead-in period in China; since it is difficult to achieve rapid development only by relying on market forces, it needs government intervention and regulation. To guide the development of the green product innovation industry, this study analyzes the effect of environmental regulation and R&D tax incentives on green product innovation from a disciplinary and incentive perspective. Data from 30 regions in China from 2009 to 2017 are used. First, a panel model is proposed for the analysis of the entire country to determine the relationships among environmental regulation, R&D tax preferential policies, and green product innovation. Due to the regional differences in industrial structure and economic development level in the various regions of China, to enhance the accuracy of the research results, the inflection points of environmental regulations in different provinces are analyzed. The research results show a U-shaped relationship between environmental regulation and green product innovation, that is, given the increasing intensity of environmental regulation, its effect will gradually change from inhibition to promotion. Currently, most provinces in China are close to the inflection point of environmental regulation, meaning the regulation level needs to be further improved. Further, R&D tax incentives play a significant role in promoting green product innovation. The results not only identify the determinants of green product innovation but also provide a theoretical and decision-making framework for the industrial development and promotion of green product innovation in China.
+Keywords: Environmental regulation; R&D tax incentives; Green product innovation; Panel model
+
+Zeeshan Arshad, Mara Madaleno, Ana I Lillebø, Helena Vieira,
+Decoding sustainable growth: The role of digital technology and entrepreneurship in carbon reduction,
+Sustainable Technology and Entrepreneurship,
+Volume 4, Issue 1,
+2025,
+100094,
+ISSN 2773-0328,
+https://doi.org/10.1016/j.stae.2024.100094.
+(https://www.sciencedirect.com/science/article/pii/S2773032824000269)
+Abstract: Entrepreneurship is instrumental in promoting innovation towards sustainable economic growth. Through information and communication technology (ICT) access and development, digitalization enhances entrepreneurship, fostering the path to sustainable economic growth. However, the literature results evidenced thus far are mixed and do not consider simultaneously the exploration of these cumulative relationships, a gap the present article tries to fill in. Herein is explored the relationship between entrepreneurial activities, ICT, energy consumption, economic growth, and environmental degradation, examining the impact of digitalization and entrepreneurial activities on carbon degradation, with the corresponding effect on the environment, considering a panel of 16 EU countries between 2001 and 2020, using cross-sectional and causality models to account for short and long-run effects. This study also validates these economies' Environmental Kuznets Curve (EKC) while finding critical cross-sectional dependencies. Despite finding that ICT and entrepreneurial activities improved environmental quality, our work points out that ICT and entrepreneurial activities deteriorated the environment. All the macroeconomic variables evidence long-run relationships with carbon degradation or environmental quality. However, no causality is found between ICT and economic growth, nor between entrepreneurship and economic growth, therefore challenging the idea that growth boosts ICT or entrepreneurship activities in EU countries. Important policy directions are presented considering the results that may foster better routes to sustainable growth and development for EU countries.
+Keywords: Digital technology; Causality models; Carbon emissions; Climate change; Sustainable Development; Entrepreneurship
+
+Nína M. Saviolidis, Brynhildur Davíðsdóttir, Leena Ilmola, Anastasia Stepanova, Matilda Valman, Elena Rovenskaya,
+Realising blue growth in the fishing industry in Iceland and Norway: Industry perceptions on drivers and barriers to blue growth investments and policy implications,
+Marine Policy,
+Volume 117,
+2020,
+103967,
+ISSN 0308-597X,
+https://doi.org/10.1016/j.marpol.2020.103967.
+(https://www.sciencedirect.com/science/article/pii/S0308597X19308760)
+Abstract: Since the UN Conference on the Human Environment held in Stockholm in 1972, the discourse has evolved from an initial focus on sustainable development to green and blue growth. Blue growth necessitates a different focus from business-as-usual policy as regards the fishing industry, requiring enhanced research and investment in value generating, clean aquatic-related activities. Given this change, the question emerges of whether the current policy environment is equipped to stimulate increased research and investment efforts within the fishing industry, sufficient to encourage the industry to contribute to blue growth. Do the fishing industries in the Nordic countries realise an opportunity in blue growth in the next several years and what drivers and barriers do they perceive in this regard? This paper relies on in-depth, semi-structured, elite interviews conducted in Iceland and Norway to reveal the perspectives of the fishing industry regarding the perceived drivers and barriers for investing in blue growth. Policy implications and possible directions for enhancing national policies to support the fishing industry in contributing to blue growth are addressed in the discussion.
+Keywords: Blue growth; Fishing industry; Drivers; Barriers; Norway; Iceland
+
+Neil J. Rowan,
+Chapter 1 - Introduction to food disruptions,
+Editor(s): Charis M. Galanakis,
+Food Technology Disruptions,
+Academic Press,
+2021,
+Pages 1-36,
+ISBN 9780128214701,
+https://doi.org/10.1016/B978-0-12-821470-1.00005-7.
+(https://www.sciencedirect.com/science/article/pii/B9780128214701000057)
+Abstract: Disruption technologies have been referred to as revolutionary that cause game-changing shifts in established market structures, companies, and institutions. Forecasting what constitutes a disruptive technology for the agri-food industry is complicated as the impact is more likely to be measured from a retrospective downstream reflective process. DTs can substantially cause localized change within a market or industry (i.e., first-order disruption) and cause ground-breaking changes across many cross-cutting domains (i.e., second-order disruption) over short or more extended time periods that substantially influence societal norms. Modern-day and future food disruption will be influenced by growing demand to produce more safe nutritious food to meet increasing populations that will respond to dynamic changes in eating habits, personalized nutrition, and consumer attitudes toward alternative protein sources and climate change. Exploiting advances in information communications technology and advanced manufacturing (such as the Internet of Things, big data, blockchain, artificial intelligence, robotics, augment and virtual reality, 3D printing) will inform creative disruption such as security, packaging, and enhanced online delivery in the food supply chain that is comprehensively addressed throughout this book. A review of the recent 43 projects funded by the Irish government under Science Foundation Ireland’s Disruptive Technology initiative highlighted trends in the innovation ecosystem and the potential for both cross-cutting and future food disruption with global outreach and orientation. This chapter introduces the best knowledge as to how to potentially meet these needs that will also influence education and workforce training.
+Keywords: Agri-food; Business models; Competitiveness; Covid-19; Cross-cutting innovation; Definition; Food technology disruption; Innovation; Technological forecasting
+
+Roberta Souza Piao, Ticiana Braga de Vincenzi, Ana Lucia Fernandes da Silva, Maria Clara Chinen de Oliveira, Diego Vazquez-Brust, Marly Monteiro Carvalho,
+How is the circular economy embracing social inclusion?,
+Journal of Cleaner Production,
+Volume 411,
+2023,
+137340,
+ISSN 0959-6526,
+https://doi.org/10.1016/j.jclepro.2023.137340.
+(https://www.sciencedirect.com/science/article/pii/S0959652623014981)
+Abstract: To fully contribute to sustainable development, circular economy has to devote more attention to social inclusion. This paper thoroughly analyzed the literature, answering the research question: how is circular economy embracing social inclusion? The research design applied quantitative and qualitative strategies. Bibliometric quantitative analysis with the aid of VosViewer, the RStudio software, and Bibliometrix Package were employed. An inductive content analysis was undertaken to analyze the themes of circular economy and social inclusion, applying NVivo software. The results brought out six clusters: (i) reverse logistics and recycling, (ii) circular economy and innovation, (iii) social innovation, (iv) sustainable supply chains, (v) bioeconomy, and (vi) closed-loop supply chain. Our findings showed that the circular strategies of reuse and reduce were the focus of the surveyed literature, while consumers and communities were the key stakeholders addressed. Recycling was directly linked to waste management and the inclusion of waste pickers in developing countries. As future research themes, it highlighted more theoretical and empirical research about community and consumer engagement in circular practices, besides the importance of entrepreneurship and social innovation to intensify circular practices embracing social inclusion.
+Keywords: Recycling; Waste pickers; Informal; Literature review; Waste management; Social inclusion
+
+Andreza Salles Barone, Carollyne Maragoni-Santos, Patricia Marques de Farias, Camila Marcolongo Gomes Cortat, Bianca Chieregato Maniglia, Ricardo Schmitz Ongaratto, Sungil Ferreira, Ana Elizabeth Cavalcante Fai,
+Rethinking single-use plastics: Innovations, polices, consumer awareness and market shaping biodegradable solutions in the packaging industry,
+Trends in Food Science & Technology,
+Volume 158,
+2025,
+104906,
+ISSN 0924-2244,
+https://doi.org/10.1016/j.tifs.2025.104906.
+(https://www.sciencedirect.com/science/article/pii/S0924224425000421)
+Abstract: Background
+The production of single-use plastics (SUP) is increasing and has become one of the most pressing environmental problems.
+Scope and approach
+This review evaluates the environmental aspects of SUP in the packaging industry, considering challenges, impacts and global policies. The focus is on biodegradable packaging alternatives, certification standards, consumer behavior, and the critical role of R&D and patents in moving towards a circular economy. This report integrates discussions on bans and taxes on SUP globally and proposes comprehensive strategies, including extended producer responsibility and consumer education. The technological status and trends in biodegradable plastics are addressed. The impact of certification standards and patents are examined. Consumer demand for eco-friendly packaging is explored, highlighting the complexity of purchasing behavior influenced by demographic and economic factors as well as marketing strategies. The phenomenon of greenwashing and the importance of transparent environmental labeling are also addressed.
+Key findings and conclusions
+Global efforts to curb SUP have led to a 68% reduction in polyethylene bags in some regions. Legislative action against SUP is essential, especially for packaging, which accounts for 53% of SUP. Biodegradable plastics currently account for 0.5% of the 400 million tons of plastics produced annually. 44% of patents filed worldwide for biodegradable polymers relate to packaging. Their growth depends on strict standards, transparent certifications and the priority of environmental integrity over the market. The growing demand for biodegradable packaging based on sugar cane, cassava and corn starch reflects consumer awareness. Real progress is hampered by the mismatch between consumer intentions and behavior, economic constraints and greenwashing. A solid legal framework, eco-labels and environmental education are essential.
+Keywords: Sustainability; Food packaging; Bio-based materials; Circular economy; Consumer perception
+
+Ahmad Mustafa, Shah Faisal, Jaswinder Singh, Boutaina Rezki, Karan Kumar, Vijayanand S. Moholkar, Ozben Kutlu, Ahmed Aboulmagd, Hamdy Khamees Thabet, Zeinhom M. El-Bahy, Oguzhan Der, Cassamo Ussemane Mussagy, Luigi di Bitonto, Mushtaq Ahmad, Carlo Pastore,
+Converting lignocellulosic biomass into valuable end products for decentralized energy solutions: A comprehensive overview,
+Sustainable Energy Technologies and Assessments,
+Volume 72,
+2024,
+104065,
+ISSN 2213-1388,
+https://doi.org/10.1016/j.seta.2024.104065.
+(https://www.sciencedirect.com/science/article/pii/S2213138824004612)
+Abstract: This review manuscript delves into lignocellulosic biomass (LCB) as a sustainable energy source, addressing the global demand for renewable alternatives amidst increasing oil and gas consumption and solid waste production. LCB, consisting of lignin, cellulose, and hemicellulose, is versatile for biochemical and thermochemical conversions like anaerobic digestion, fermentation, gasification, and pyrolysis. Recent advancements have led to a 25 % increase in bioethanol yields through alkali pre-treatment and optimized fermentation, a 20 % enhancement in microbial delignification efficiency, and a 35 % improvement in enzyme efficiency via nanobiotechnology. These innovations enhance biofuel production sustainability and cost-effectiveness. Decentralized energy systems utilizing locally produced biomass can reduce transmission losses and greenhouse gas emissions by up to 30 %, fostering community energy independence. These developments significantly contribute to global sustainability and socio-economic development by converting waste into valuable energy, promoting environmental stewardship, and supporting economic resilience. Furthermore, this review also discusses innovative strategies to address technological, economic, and environmental challenges and highlights the role of decentralized solutions in promoting sustainable energy production.
+Keywords: Lignocellulosic Biomass; Decentralized Energy Systems; Sustainable Biofuels; Thermochemical and Biochemical Conversion; Circular Economy
+
+Alessia Lombardi, Domenico Carlucci, Luigi Cembalo, Antonio Paparella, Luigi Roselli, Sarah Stempfle, Riccardo Vecchio, Giacomo Giannoccaro,
+Drivers for the adoption of circular eco-innovations in agriculture: insights from a field experiment on olive growers,
+Resources, Conservation & Recycling Advances,
+Volume 27,
+2025,
+200265,
+ISSN 2667-3789,
+https://doi.org/10.1016/j.rcradv.2025.200265.
+(https://www.sciencedirect.com/science/article/pii/S2667378925000239)
+Abstract: Circular economy is emerging as a key approach for transitioning to a more sustainable economic model. However, understanding how to facilitate the transition to a circular economy remains a critical challenge. This study analyses the drivers for the adoption of circular eco-innovations in the agricultural sector by considering both firm-level factors and cognitive characteristics of firms’ managers. Specifically, the willingness to adopt two selected circular eco-innovations was assessed through face-to-face interviews involving a sample of 211 olive growers in Apulia region (Italy). The two tested circular eco-innovations consist of the use of olive pomace digestate as soil conditioner/fertilizer and the use of reclaimed wastewater for irrigation. Data analysis was performed by estimating a bivariate ordered-response probit model. Findings revealed that farmer’s cognitive characteristics, particularly environmental risk awareness, play a key role in the path of adoption. Therefore, a full circular transition in agriculture can be achieved only through a significant shift in farmers’ mind-set, a process that takes time and needs to be supported by tailored policy measures.
+Keywords: Circular economy; Eco-innovations; Farmers’ attitudes; Environmental awareness; Olive pomace digestate; Wastewater irrigation; Bivariate ordered probit
+
+Emilia Taddei, Claudio Sassanelli, Paolo Rosa, Sergio Terzi,
+Circular supply chains theoretical gaps and practical barriers: A model to support approaching firms in the era of industry 4.0,
+Computers & Industrial Engineering,
+Volume 190,
+2024,
+110049,
+ISSN 0360-8352,
+https://doi.org/10.1016/j.cie.2024.110049.
+(https://www.sciencedirect.com/science/article/pii/S0360835224001700)
+Abstract: Unlike linear supply chains, Circular Supply Chains (CSCs) require return flows able to capture additional value and involving different stakeholders. The successful interaction of Circular Economy and Industry 4.0 (I4.0) towards a circular, efficient, and competitive transition of current supply chains is unveiled by both current state of theory and practice. Notwithstanding literature’s multiple attempts to flank supply chains in this complex shift, the several theoretical frameworks proposed by academics are still not fully capable of bridging linear supply chains to their transitions towards circularity due to a lack of systemic, company-specific, and practical approaches. In addition, practical impediments, risks and treats hindering CSCs development are still under-investigated and, therefore, further research is required in this domain. To address these gaps, this paper aims to develop and propose a model able to support companies in approaching the transition towards CSCs, also embedding guidelines and recommendations in the different steps of this path. The model has been conceptualized based on five I4.0-driven CSCs categories recently proposed through a systematization of the knowledge extant in literature (I4.0 enabling technologies, performance tools and indicators, challenges and barriers, business models and strategies, best practices) and on a gap analysis performed in literature to unveil theoretical gaps and practical barriers in the CSC domain. Finally, the model has been refined and validated by ten selected academic experts through an online asynchronous survey, leading to the detection of seven recurrent practical barriers (lack of tax policies and incentives, weak environmental laws and regulations, limited financial resources and support, high investments and implementation costs, lack of coordination and collaboration among the SC members, lack of technological resources and infrastructures, lack of compatibility and integration of technical platforms) as the most critical in the CSC transition. The model, structured in four main phases (conceptualization, design, implementation and measurement) and grounded on the five categories derived from the literature, addresses each of the steps of the CSC transition according to circular strategies and optimal digital technologies. Managerial implications emerge from the systematization and categorization of methods, approaches and warnings operated in the model proposed. The model turns to be capable of enhancing the realization of the entire CSC process in a digital context, acting against the CSC theoretical gaps and practical barriers detected in the gap analysis conducted in this research.
+Keywords: Circular economy; Circular supply chain; Industry 4.0; Life cycle management
+
+Cesar Cuevas-Lopez-de-Baro, Ignacio Mira-Solves, Antonio Verdú-Jover,
+Assessment model for Industry 5.0: A holistic approach to readiness and integration,
+Journal of Industrial Information Integration,
+Volume 46,
+2025,
+100855,
+ISSN 2452-414X,
+https://doi.org/10.1016/j.jii.2025.100855.
+(https://www.sciencedirect.com/science/article/pii/S2452414X25000792)
+Abstract: Purpose
+This study proposes a novel assessment model tailored to the unique requirements of Industry 5.0 transformation utilizing Socio-Technical Theory as a framework. The model seeks to give organizations actionable insights into navigating the complex socio-technical dynamics of I5.0, evaluating organizational readiness holistically, and guiding their transition to this new industrial paradigm across different perspectives and dimensions. By fostering this holistic approach to Industry 5.0 adoption, our study aims to impact industry, society, and institutions significantly.
+Methodology
+The model was developed using a two-phase research approach. The first phase involved a detailed systematic literature review and a systematic literature network analysis to identify the perspectives, critical dimensions, and guiding questions for the assessment based on Socio-Technical Theory. The second phase refined the preliminary model through expert feedback from industry specialists.
+Findings
+Our research proposed an assessment model for Industry 5.0, confirmed Socio-Technical Theory as a substantive framework, and identified four core perspectives: strategy, sustainability, human-centricity, and resilience. These perspectives encompass 25 critical dimensions, which were further analyzed through 64 guiding questions. Expert feedback validated the need for the model and highlighted its potential for application from both a strategic and a tactical perspective.
+Originality
+This study addresses a crucial gap in the literature by presenting a novel assessment model tailored to the unique challenges and opportunities presented by this emerging industrial paradigm. The model’s emphasis on holistic readiness and the integration of business strategies goes beyond conventional approaches by fostering a more nuanced understanding of the socio-technical dynamics shaping the future of industry and society. By applying Socio-Technical Theory (STT), this study provides a more comprehensive understanding of the socio-technical dynamics underlying I5.0 transformation. This innovative approach provides organizations with actionable insights into navigating the intricate interplay between advanced technologies, human factors, sustainability principles, and resilience strategies in complex situations, thus advancing both theoretical and practical knowledge in the field of Industry 5.0.
+Keywords: Industry 5.0; Socio-technical theory; Assessment model; Sustainability; Human-centrism; Resilience
+
+Katarina Eckerberg, Therese Bjärstig, Matilda Miljand,
+Steering ‘green’ innovation policy toward sustainability? Lessons from implementing EIP-AGRI in Sweden,
+Environmental Innovation and Societal Transitions,
+Volume 48,
+2023,
+100732,
+ISSN 2210-4224,
+https://doi.org/10.1016/j.eist.2023.100732.
+(https://www.sciencedirect.com/science/article/pii/S2210422423000424)
+Abstract: This article critically examines the state's steering capacity of ‘green innovation’ programs using Sweden's implementation of the agricultural European Innovation Partnership (EIP-AGRI) as a case representing part of the EU's Green Deal. The innovations should promote the competitiveness of rural areas and contribute to national environmental protection and climate goals. We found that despite expectations, implementation rests on compartmentalized networking within the agricultural sector, prioritizing increased ‘competitiveness’ before ‘green’ development, and interpreting ‘innovation’ mainly in the technical sense. The results indicate that the state´s steering capacity of ‘green innovation’ programs meets several obstacles: the overall goals from the top tend to be both too many and too vague, leaving it to the administration to interpret what kinds of features should be prioritized from below. The state's steering in the case of EIP-AGRI relies mostly on internal agricultural expertise contrary to previous research that suggests a recent ‘de-compartmentalisation’ of European agricultural policymaking.
+Keywords: European green deal; Rural development program; Steering capacity; Agricultural policy; Evaluation
+
+Xin Zhao, Umer Shahzad, Aviral Kumar Tiwari,
+Resource savings, recycling and utilization, and energy transition: Introduction,
+Geoscience Frontiers,
+Volume 15, Issue 3,
+2024,
+101797,
+ISSN 1674-9871,
+https://doi.org/10.1016/j.gsf.2024.101797.
+(https://www.sciencedirect.com/science/article/pii/S1674987124000215)
+
+Mohsen Brahmi, Bruna Bruno, Karambir Singh Dhayal, Luca Esposito, Anna Parziale,
+From manure to megawatts: Navigating the sustainable innovation solution through biogas production from livestock waste for harnessing green energy for green economy,
+Heliyon,
+Volume 10, Issue 14,
+2024,
+e34504,
+ISSN 2405-8440,
+https://doi.org/10.1016/j.heliyon.2024.e34504.
+(https://www.sciencedirect.com/science/article/pii/S240584402410535X)
+Abstract: This article aims to provide a systematic review of the literature on animal biomass and biogas plants through an analysis of externalities and benefits in economic, social, and environmental terms. In recent years, the spread of biogas plants has played an important role, especially in rural areas, generating benefits not only for the individual farm but for entire communities, contributing to the reduction of energy poverty and, at the same time, promoting the production of energy and organic manure. In light of the findings, the study argues that: (a) more public subsidies are needed; (b) the deployment of an appropriate policy mix would encourage the spread of small and medium-sized plants, with a reduction in road transport; and (c) targeted and diversified investments are needed on a geographic-by-geographic basis.
+Keywords: Green innovations; Sustainability; Green energy; Waste management; Energy transition; Renewable energy
+
+Piergiuseppe Morone, Idiano D'Adamo, Gülşah Yilan,
+Editorial overview: The fashion industry wears the circular economy and sustainability,
+Current Opinion in Green and Sustainable Chemistry,
+Volume 42,
+2023,
+100815,
+ISSN 2452-2236,
+https://doi.org/10.1016/j.cogsc.2023.100815.
+(https://www.sciencedirect.com/science/article/pii/S2452223623000640)
+
+Piergiuseppe Morone, Edgardo Sica, Oksana Makarchuk,
+Chapter 1 - From waste to value: assessing the pressures toward a sustainability transition of the Ukrainian waste management system,
+Editor(s): Charis M. Galanakis,
+Innovation Strategies in Environmental Science,
+Elsevier,
+2020,
+Pages 1-32,
+ISBN 9780128173824,
+https://doi.org/10.1016/B978-0-12-817382-4.00001-0.
+(https://www.sciencedirect.com/science/article/pii/B9780128173824000010)
+Abstract: Waste should be conceived of as a resource whose diversion from the landfill may support the transition toward a circular economy in which waste generated in one industry becomes a secondary raw material for another. However, challenges related to transforming the waste management system into a green system cannot be addressed only by considering incremental (technological) improvements in recovering waste; they require an overall paradigm shift. Starting from these premises, the current chapter investigated the pressures that are pushing the current Ukrainian waste management system to become greener. The analysis is framed within the theory of sociotechnical transitions and multilevel perspectives, investigating the role of landscape actors in exerting a narrative pressure upon the ongoing waste sector. Results show that most of the pressure originates at the global level, mainly by means of informal channels, leaving only a marginal role to national actors.
+Keywords: Circular economy; Discourse analysis; Stakeholders' pressure; Sustainability transition; Waste management
+
+Shayan Khan Kakar, Jing Wang, Noman Arshed, Tran Thi Le Hien, Sehrish Akhter, Nazir Muhammad Abdullahi,
+The impact of circular economy, sustainable infrastructure, and green FinTech on biodiversity in Europe: A holistic approach,
+Technology in Society,
+Volume 81,
+2025,
+102841,
+ISSN 0160-791X,
+https://doi.org/10.1016/j.techsoc.2025.102841.
+(https://www.sciencedirect.com/science/article/pii/S0160791X25000314)
+Abstract: As Europe strives for environmental sustainability, integrating a circular economy, sustainable infrastructure, and green FinTech is crucial for enhancing biodiversity conservation. This study investigates the intricate relationship between circular economy, sustainable infrastructure, green FinTech, and European biodiversity conservation. To this end, this study constructs a 24-year panel dataset from 39 European countries. It employs a novel econometric technique called time-specific heterogeneous factor analysis to create indices for a circular economy, sustainable infrastructure, and green FinTech. Additionally, the study employed an advanced econometric Panel Autoregressive Distributed Lag model with Pooled Mean and Fourier specification (PARDL-PMG-Fourier). The findings show that the implementation of green FinTech significantly boosts biodiversity in Europe; the circular economy dampens this impact. The implementation of sustainable infrastructure considerably enhanced the conservation of biodiversity in Europe; similarly, SIN1 shows a significant cyclical or seasonal impact on biodiversity in the short run. This study proposes solid policy recommendations for the European Union, European Commission, regulators, and policymakers. The European Commission and regulators must prioritize the adoption of green FinTech to boost financial market operations and activities, refine circular economy initiatives, and emphasize sustainable infrastructure development projects. Targeted investment is necessary for sustainable resource utilization, recycling, waste reduction, and eco-friendly infrastructure in European projects. By doing so, Europe can effectively boost biodiversity conservation by mitigating cyclical and seasonal risks. These policy implications offer a streamlined framework for achieving economic and environmental sustainability goals in Europe.
+Keywords: Circular economy; Sustainable infrastructure; Green FinTech; Biodiversity; Time-specific heterogeneous factor analysis; Cyclical seasonal European Union policy
+
+Ronan Cooney, David Baptista de Sousa, Ana Fernández-Ríos, Sinead Mellett, Neil Rowan, Andrew P. Morse, Maria Hayes, Jara Laso, Leticia Regueiro, Alex HL. Wan, Eoghan Clifford,
+A circular economy framework for seafood waste valorisation to meet challenges and opportunities for intensive production and sustainability,
+Journal of Cleaner Production,
+Volume 392,
+2023,
+136283,
+ISSN 0959-6526,
+https://doi.org/10.1016/j.jclepro.2023.136283.
+(https://www.sciencedirect.com/science/article/pii/S0959652623004419)
+Abstract: There is a growing concern among societies and consumers over food security and the sustainability of food production systems. For seafood, it has been highly advocated as a healthy food source and its sustainability credentials. However, the increasing global demand for seafood and the need to supply the quantities are creating sustainability issues, e.g., the importation of plant and marine proteins for aquafeed production. Consequently, there is a necessary need to analyse the supply chain and life cycle of these systems to determine their sustainability merits and how to enhance them. The circular economy (CE) aims to reduce processing by-product underutilisation, increase the rate of reuse, and reduce pressure on natural resources and systems. For seafood, there are large quantities of biomass that are being lost through bycatch/discards, waste from aquaculture (e.g., sludge and wastewater), and by-products generated through processing (e.g., trimmings and offal). These can all be valorised for the generation of feeds, value-added products, or further food production. This review will focus on seafood by-products generated during the processing into consumer products, and the current methods that could be used to manage or treat these waste streams. The review presents a stepwise framework that outlines valorisation opportunities for seafood by-products. This framework can enable producers, operators, regulators, and investors to integrate with the principles of the CE with the consideration of achieving economic viability. The challenges of seafood loss due to climate change and emerging recycling strategies will also need to be considered and integrated into the valorisation pathways. Communication, education, and engagement with stakeholders are key to transitioning to a circular economy. Where increase awareness and acceptance will create drivers and demand for seafood by-product valorisation. Overall, the impact of such a circular production system will potentially lead to higher production efficiency, reduce demand for natural resources, and greater seafood production. All of which addresses many of the United Nation's Sustainable Development Goals by contributing towards future food security and sustainability.
+Keywords: Seafood loss; Aquaculture; Nutrient recovery; Seafood supply chain; Processing by-products
+
+Richard Orozco, Philipp Grundmann,
+Readiness for Innovation of Emerging Grass-Based Businesses,
+Journal of Open Innovation: Technology, Market, and Complexity,
+Volume 8, Issue 4,
+2022,
+180,
+ISSN 2199-8531,
+https://doi.org/10.3390/joitmc8040180.
+(https://www.sciencedirect.com/science/article/pii/S2199853123000665)
+Abstract: ABSTRACT
+New business opportunities based on grassland and green fodder present a promising avenue to realize the transition towards a circular and sustainable bio-based economy. Yet, such potential remains largely untapped and grass-based products and businesses remain a small niche in the global economy. To understand this phenomenon, this paper introduces and operationalizes a model to assess innovation readiness built around seven focus areas: technology, manufacturing, business, IPR, customer, team, and funding readiness with their own detailed “progress scales.” We employ necessary condition analysis (NCA) to identify limiting factors and bottlenecks in actual business situations. Our results reveal that lack of consumer awareness, infant conversion technologies and paucity of long-term investments that support emerging bio-based businesses are the most limiting conditions for the growth of emerging grass-based markets. The present study advances our understanding of the factors that limit complex innovations in grassland systems. Focusing on necessary conditions in a coordinated way between practitioners and policy makers by giving priority to fostering positive awareness of bioeconomy businesses, developing conversion technologies, and improving access to capital is a recommended approach to foster emerging grass-based innovations.
+Keywords: bioeconomy; business; readiness; innovation; grasslands
+
+Muyideen Olaitan Bamidele, Micheal Bola Bamikale, Eliseo Cárdenas-Hernández, Motolani Adepeju Bamidele, Guillermo Castillo-Olvera, José Sandoval-Cortes, Cristóbal Noe Aguilar,
+Bioengineering in Solid-State Fermentation for next sustainable food bioprocessing,
+Next Sustainability,
+Volume 6,
+2025,
+100105,
+ISSN 2949-8236,
+https://doi.org/10.1016/j.nxsust.2025.100105.
+(https://www.sciencedirect.com/science/article/pii/S294982362500008X)
+Abstract: Solid-State Fermentation (SSF) is a breakthrough approach in the sustainable bioprocessing of foods that applies bioengineering techniques to enhance the accumulation of bioactive compounds in functional foods. A review of bioengineering strategies that optimize microbial growth and metabolite production in SSF systems is presented in this chapter, including novel bioreactor designs and genetic engineering of microorganisms combined with metabolic engineering. The present document also describes some of the important developments in the extraction and purification of bioactive molecules from SSF processes, with special emphasis on their potential for using waste from the food industry to reduce the environmental burden. Combining SSF with state-of-the-art biotechnological tools aids in the efficient production of high value-added compounds, placing a strong basis for economic-ecological sustainability. The document further elaborates on the optimization techniques necessary for the maximum efficiency of SSF processes, trends, and challenges in the area in the future, and case studies that illustrate their application in real life. By providing an incisive review of the present status and future directions of SSF in food bioprocessing, this contribution highlights the importance of SSF in promoting sustainable food production systems.
+Keywords: Bioengineering; Solid-State Fermentation; Next sustainable; Food bioprocessing
+
+Dinh Linh Le, Roberta Salomone, Quan T. Nguyen, Alexis Versele, Chiara Piccardo, Trung Kien Nguyen,
+Circular bioeconomy in the Global South: The case of circular bio-based building material use in Vietnam,
+Journal of Environmental Management,
+Volume 376,
+2025,
+124437,
+ISSN 0301-4797,
+https://doi.org/10.1016/j.jenvman.2025.124437.
+(https://www.sciencedirect.com/science/article/pii/S030147972500413X)
+Abstract: Circular bio-based building materials (CBBMs) offer a sustainable solution for reducing the climate impact of buildings and are crucial for transitioning the construction industry towards a circular economy (CE). Reusing, cascading, and recycling municipal biowaste, agricultural by-products, and residues to produce CBBMs can optimise resource utilisation and deliver substantial environmental, economic, and social benefits, as well as promote a circular bioeconomy (CBE). Despite these benefits, the CBBM adoption in the Global South remains limited due to various barriers. Notably, the existing literature lacks research into the current use status and adoption barriers of CBBMs in these regions. This study addresses these gaps by investigating the usage and barriers to CBBM adoption, based on insights from building professionals in Vietnam. Data from 123 valid responses were analysed using descriptive statistics, ranking analysis, and exploratory factor analysis. The findings indicate that “circular bio-based panels or particle boards”, “agricultural by-products mixed with clay for wall construction”, and “circular bio-based concrete, bricks, fillers, or binders” are the most commonly utilised CBBMs. Government-related barriers, such as “building code restrictions and lack of regulation”, “lack of government promotion and incentives”, and “lack of design guides and tools for projects using CBBMs”, are identified as the most significant obstacles to CBBM uptake. Kendall's W and Whitney U tests reveal a strong consensus among experts, with no significant differences between those with and without firsthand CBBM experience regarding their ranks of barriers. Exploratory factor analysis identified 20 independent barriers, grouped into four components, with the one containing cost and time-related barriers emerging as the most dominant to market and technical-related, government-related, and information and perception-related barriers. The study's findings could provide useful insights for policy recommendations to promote CBBM adoption in Vietnam. These insights may also inform strategies in other Global South countries with similar socioeconomic conditions to facilitate the transition to CE and CBE, mitigating climate change impact, and promoting sustainable development.
+Keywords: Circular bio-based building materials; Circular bioeconomy; Climate change; Circular construction; Sustainable development; Global South
+
+Raul E. Martínez-Herrera, O. Miriam Rutiaga-Quiñones, María E. Alemán-Huerta,
+Integration of Agave plants into the polyhydroxybutyrate (PHB) production: A gift of the ancient Aztecs to the current bioworld,
+Industrial Crops and Products,
+Volume 174,
+2021,
+114188,
+ISSN 0926-6690,
+https://doi.org/10.1016/j.indcrop.2021.114188.
+(https://www.sciencedirect.com/science/article/pii/S0926669021009535)
+Abstract: Agave is a genus of succulent plants distributed throughout the American continent with an important epicenter in Mexico. Since ancient times, these plants have been cultivated and harvested by the Aztec population. Nowadays, Agave plants are considered an important income source due to the different applications directed to produce alcoholic beverages, foods, and natural fibers. Likewise, novel biotechnological approaches are investigated to explore the multiple benefits of these plants. In this sense, this review analyzed the incorporation of Agave plants derivatives (syrups, carbohydrates, lignocellulosic wastes, and vinasses) into the polyhydroxybutyrate (PHB) production, focusing on reports aimed to enhance the production of this bacterial biopolymer, the improvement of physical properties when PHB and PHBV are blended with Agave fibers, the potential benefits of circular economy strategies if were implemented by the rural communities dedicated to the production of this vegetal resource, and the challenges related to the implementation of this technology.
+Keywords: Agavaceae; Bioeconomy; Bioplastics; Circular economy; Green composite; Polyhydroxyalkanoates
+
+Emer A. O'Neill, Vlastimil Stejskal, Simona Paolacci, Marcel A.K. Jansen, Neil J. Rowan,
+Quo vadis - Development of a novel peatland-based recirculating aquaculture multi-trophic pond system (RAMPS) in the Irish midlands with a global orientation,
+Case Studies in Chemical and Environmental Engineering,
+Volume 9,
+2024,
+100748,
+ISSN 2666-0164,
+https://doi.org/10.1016/j.cscee.2024.100748.
+(https://www.sciencedirect.com/science/article/pii/S2666016424001427)
+Abstract: Development of peatland-based, recirculating freshwater aquaculture that is efficient and economically viable presents considerable benefits for society including supporting communities transitioning to low-carbon economies. This case study constitutes the first peatland-based process that uses fish cultivation waste to produce duckweed and microalgae biomass which are potential sources of high-value proteins, bioactives and further products that can be extracted using a biorefinery approach. The novel site has successfully supported freshwater aquaculture production using an effective circularity model and highlighted the potential of supporting new innovation such as biorefining bioactives from some 2000 indigenous peatland microalgae species for potentially beneficial health and adjacent applications. Additionally, it has demonstrated the appropriateness of digital transformation such as connecting on site monitoring with living-laboratory analysis. This paper details the challenges of food security given the impact of climate variance on open ecosystem performance. The findings of this case study inform key strategic polices governing food sustainability, bioeconomy and climate action from a bottom-up perspective. Key technical bottlenecks are discussed. Future research will consider efficiencies in biomass production and value-streams for new business innovations, including use of appropriate digital technologies though integrated multi-actor HUB framework enabling precision paludiculture for end-to-end monitoring, sustainable products/services and bespoke training.
+Keywords: United nations sustainability development goals; Food security; Bioeconomy; Just transition; Land change use; Paludiculture
+
+Manuel Herrador, Wil de Jong, Kiyokazu Nasu, Lorenz Granrath,
+Circular economy and zero-carbon strategies between Japan and South Korea: A comparative study,
+Science of The Total Environment,
+Volume 820,
+2022,
+153274,
+ISSN 0048-9697,
+https://doi.org/10.1016/j.scitotenv.2022.153274.
+(https://www.sciencedirect.com/science/article/pii/S0048969722003655)
+Abstract: The global population is increasing, as is the demand for basic materials. At the same time, key resources are in short supply, and the extraction and use of raw materials have major environmental implications, for instance, increased CO2 emission. In a Circular Economy (CE), resources and products are divided, leased, reused, repaired, refurbished, and recycled, extending product life cycles, reducing waste, and generating additional value. Government entities in Japan and South Korea are designing and implementing policies to facilitate the transition to a CE and achieve carbon neutrality. The paper compares Japanese policies and actions with those of South Korea, identifies challenges and options for improvements in each country, and lessons that they can share. The paper reviews CE and low carbon policies in the two countries and compares how those, but also public interest and initiatives differ between them. It provides recommendations to address observed shortcomings and capture opportunities to connect CE and zero-carbon strategies. The article is expected to interest Japanese and South Korean policy-makers, companies, and academics.
+Keywords: Circular economy; Zero carbon; Japan; South Korea
+
+Aleksy Kwilinski, Zdzislawa Dacko-Pikiewicz, Katarzyna Szczepanska-Woszczyna, Oleksii Lyulyov, Tetyana Pimonenko,
+The role of innovation in the transition to a green economy: A path to sustainable growth,
+Journal of Open Innovation: Technology, Market, and Complexity,
+Volume 11, Issue 2,
+2025,
+100530,
+ISSN 2199-8531,
+https://doi.org/10.1016/j.joitmc.2025.100530.
+(https://www.sciencedirect.com/science/article/pii/S2199853125000654)
+Abstract: The EU has set ambitious targets for carbon neutrality, encapsulated in the European Green Deal. This framework aims to transform the EU into a modern, resource-efficient, and competitive economy with no net emissions of greenhouse gases by 2050. Innovation plays a critical role in developing the technologies and processes required to meet these targets. This study investigates the influence of innovation on green economic growth across EU member states over the period 2007–2022. Employing the PVAR model with GMM estimation to analyse panel data from the Visegrad Group (V4), which includes Poland, Hungary, Slovakia, and the Czech Republic, this research explores the dynamic interplay between innovation activities and green economic growth. The MalmquistLuenberger index is constructed to evaluate green economic growth. According to the empirical results, there is a significant divergence trend in green economic growth among V4 countries. However, overall progress has been made in green economic growth, driven primarily by advancements in technology. Furthermore, the results reveal a statistically significant and positive relationship between innovation and green economic growth, highlighting the indispensable role of technological advancement and sustainable practices in the EU's progression towards a greener economy. The study recommends tailored policy interventions to optimize the benefits of innovation across the region.
+Keywords: Green economic growth; Innovation; Sustainable development; R&D expenditures; Green technologies; Renewable energy; Carbon neutrality; EU Green Deal
+
+
+Index,
+Editor(s): Mousumi Roy,
+Sustainable Development Strategies,
+Butterworth-Heinemann,
+2021,
+Pages 223-230,
+ISBN 9780128189207,
+https://doi.org/10.1016/B978-0-12-818920-7.00013-X.
+(https://www.sciencedirect.com/science/article/pii/B978012818920700013X)
+
+Paula Capodistrias, Julia Szulecka, Matteo Corciolani, Nhat Strøm-Andersen,
+European food banks and COVID-19: Resilience and innovation in times of crisis,
+Socio-Economic Planning Sciences,
+Volume 82, Part A,
+2022,
+101187,
+ISSN 0038-0121,
+https://doi.org/10.1016/j.seps.2021.101187.
+(https://www.sciencedirect.com/science/article/pii/S0038012121001798)
+Abstract: This paper examines the impact of the COVID-19 crisis on the functioning of European food banks and how resilient European food banks were in coping with the pandemic in 2020. We apply a multiple case study to assess how the first year of the pandemic affected European food banks’ operations and the amount of redistributed food. We further investigate innovation practices that have been developed to cope with the new situation, hoping to draw lessons for imminent future waves of the pandemic and other social crises. Our study finds that, compared to 2019, in 2020 food banks were able to redistribute a significantly higher amount of food despite numerous social restrictions and other challenges associated with the pandemic. To explain this, we delve into the organizational innovations implemented by the studied food banks and find that the introduction of new strategies and new internal structures, as well as the establishment of new types of external network relations with other firms and/or public organizations, proved to be particularly important, enabling food banks to respond quickly and effectively to the new emergency. The study thus highlights the role of food banks in food redistribution and food waste reduction in times of crisis.
+Keywords: Food waste; Surplus food; Food banks; Food system resilience; COVID-19; Organizational innovation; Social crisis
+
+Francisco Mango, Rose Camille Vincent,
+Does polycentric climate governance drive the circular economy? Evidence from subnational spending and dematerialization of production in the EU,
+Ecological Economics,
+Volume 231,
+2025,
+108533,
+ISSN 0921-8009,
+https://doi.org/10.1016/j.ecolecon.2025.108533.
+(https://www.sciencedirect.com/science/article/pii/S0921800925000163)
+Abstract: Subnational governments have progressively raised their share in the global flow of resources, knowledge, and standard-setting power to combat climate change, leveraging the channels of transnational networks and commitments to carbon neutrality, often exceeding the ambitions of central administrations. This paper explores whether polycentric climate governance, characterized by overlapping decision-making across governance levels, accelerates the transition to the circular economy. Using a novel dataset on SNG climate expenditures spanning 30 European countries from 2001 to 2019, we assess their impact on resource productivity (RP)—a key indicator of the circular economy, defined as GDP per kilogram of raw material consumption. The analysis employs a Panel-Corrected Standard Errors (PCSE) model to address heteroskedasticity, serial correlation, and cross-sectional dependence. To further ensure robustness, we implement instrumental variable techniques (IV-GMM), leveraging geographical fragmentation and climatic variation to address potential endogeneity. The results demonstrate that SNG climate-sensitive expenditures significantly enhance RP, with every $100 increase in per capita spending leading to measurable improvements in resource efficiency. In contrast, CG spending exhibits limited or even negative effects on RP, underscoring the unique capacity of SNGs to foster economic dematerialization. Mechanisms driving these effects include investments in waste management, energy, and transport systems, where SNGs outperform CGs in fostering localized and tailored solutions. These findings highlight the importance of empowering SNGs within polycentric governance frameworks to advance the circular economy and achieve sustainable growth. The study contributes to the literature by offering one of the first empirical analyses linking SNG spending to the circular economy.
+Keywords: Multilevel governance; Fiscal decentralization; Climate expenditures; Climate finance; Circular economy; Natural resource consumption
+
+Marta Pędzik, Zdzisław Kwidziński, Dominika Janiszewska-Latterini, Tomasz Rogoziński,
+Particleboard from the residues of wooden door production as a closed material cycle,
+Industrial Crops and Products,
+Volume 222, Part 2,
+2024,
+119653,
+ISSN 0926-6690,
+https://doi.org/10.1016/j.indcrop.2024.119653.
+(https://www.sciencedirect.com/science/article/pii/S0926669024016303)
+Abstract: The research was aimed at verifying that waste material from the production of wooden doors can be used to produce type P2 particleboard by EN 312 standards and that the interior door leaves made from it will meet the required tests. For this purpose, particleboards consisting of wood-based panel waste material were produced using MUF resins. The mechanical, physical and hygienic properties of the particleboard produced were investigated. Based on the results, it was confirmed that the boards made from both 100 % and 50 % waste met all the requirements for type-P2 particleboards. Prototype door leaves were then manufactured using boards made from 50 % waste and tested for functional properties. The door leaves for static torsional strength and resistance to vertical loads, soft and heavy impacts and strong body impacts meet the requirements for Class 1 by EN 1192, and resistance to repeated opening and closing cycles meets the requirements for Class 3 by EN 12400. The results indicate that producing the particleboards from waste from the same production line of interior door leaves does not impair the properties of the doors and the particle boards can be used to produce them. This product fits in with the idea of a circular economy and the idea itself contributes to the sustainability of production processes by managing part of the waste generated.
+Keywords: Particleboard; Material waste; Prototypes; Recycling; Door leaf
+
+Uzma Kashif, Sohail Abbas, Shazia Kousar, Heli Lu,
+Linking of bio-energy and carbon neutrality: Navigating economic policy uncertainty and climate change policy in the USA,
+Energy,
+Volume 324,
+2025,
+136012,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2025.136012.
+(https://www.sciencedirect.com/science/article/pii/S0360544225016548)
+Abstract: This study aims to explain the role of bioenergy production in carbon neutral economy in United State America. This study utilized bioenergy (BIOE), economic policy uncertainty, climate change policy, and natural resources as explanatory variable while carbon neutrality or zero carbon emission is used as response variable. The data has been collected from World Bank for the period of 2000–2023. Moreover, this study employed an autoregressive distributed lag (ARDL) model to investigate the long-term relationship between carbon neutrality and net-zero emissions based on bioenergy, climate change policy, economic policy uncertainty, and natural resources. The results indicate that bioenergy consumption significantly decrease carbon emission and increase carbon neutrality. The economic policy uncertainty positively influences carbon emission, so as economic policy uncertainty decreases, it will cause to decrease carbon emission and increases carbon neutrality. Similarly, climate change policy significantly lowers the carbon emission and increases carbon neutrality. Same in line as natural resources depletion increases; it will cause to increase carbon emission and decreases carbon neutrality. Moreover, this study suggests that USA policy makers should keenly observe the development and implementation of the policies designed to achieve carbon free economy till 2050.
+Keywords: Net zero emissions; Carbon neutrality; Climate change policy; Bio-energy; Natural resources; Economic policy uncertainty
+
+Katrin Molina-Besch, Annika Olsson,
+Chapter 21 - Innovations in food packaging—Sustainability challenges and future scenarios,
+Editor(s): Rajeev Bhat,
+Future Foods,
+Academic Press,
+2022,
+Pages 375-392,
+ISBN 9780323910019,
+https://doi.org/10.1016/B978-0-323-91001-9.00039-6.
+(https://www.sciencedirect.com/science/article/pii/B9780323910019000396)
+Abstract: Packaging is a necessity for food to be delivered in good quality from the point of production to the point of consumption. While disposable packaging has been an essential part of most modern food supply chains, environmental problems related to packaging waste have grown exponentially during the last decades. The chapter summarizes the most important challenges for the development of more sustainable food packaging and provides an overview of recent packaging developments and innovations that respond to the requirements of the bioeconomy, the circular economy, and digitalization. The chapter ends with a discussion of the role of packaging innovations for the transition to sustainable food systems.
+Keywords: Bioeconomy; Circular economy; Packaging; Food waste; Sustainable food systems; Sustainable packaging
+
+Anne Pender, Luke Kelleher, Eoin O'Neill,
+Regulation of the bioeconomy: Barriers, drivers and potential for innovation in the case of Ireland,
+Cleaner and Circular Bioeconomy,
+Volume 7,
+2024,
+100070,
+ISSN 2772-8013,
+https://doi.org/10.1016/j.clcb.2023.100070.
+(https://www.sciencedirect.com/science/article/pii/S2772801323000350)
+Abstract: The bioeconomy is generally understood as an economy in which sustainably-sourced renewable bio-based resources are used for the production of food, energy and other products and services. Expectations are high for its potential to support the transition away from a fossil fuel-based economy and help to address complex issues such as climate change and biodiversity depletion. However, given its cross-sectoral nature and key focus on innovation, tensions can emerge between bioeconomy goals and the need for regulation of bioeconomy activities. In particular, there is a recognition of the need for regulation to (a) support sustainability and resource efficiency, (b) manage competing interests and (c) provide coherence and innovation support. To identify how regulation may be acting as a barrier and / or driver of the bioeconomy in Ireland, interviews were conducted with a range of key stakeholder organisations. Analysis revealed four key barriers, relating to the need for financial support tools such as feedin tariffs, more flexible approaches to regulating the use of waste materials, closing the gap between regulation and innovation activity and addressing planning issues. The two drivers identified highlight a positive role for regulation in supporting and enabling bioeconomy development, especially in terms of using more flexible and innovative approaches. Associated challenges include the need to support genuine public participation and the provision of resources to support policy-makers in the design and implementation of an effective bioeconomy regulatory framework.
+Keywords: Bioeconomy; Circular bioeconomy; Regulation; Innovation; Barriers; Drivers
+
+Dinh Linh Le, Roberta Salomone, Quan T. Nguyen, Alexis Versele, Chiara Piccardo,
+Status and barriers to circular bio-based building material adoption in developed economies: The case of Flanders, Belgium,
+Journal of Environmental Management,
+Volume 367,
+2024,
+121965,
+ISSN 0301-4797,
+https://doi.org/10.1016/j.jenvman.2024.121965.
+(https://www.sciencedirect.com/science/article/pii/S0301479724019510)
+Abstract: Circular bio-based building materials (CBBMs) provide a potential solution to reduce the climate impacts of buildings and offer opportunities to transition the construction industry to a circular model. Promoting the use of these materials can also bring economic, environmental, and social benefits from valorising biowaste and by-products from other sectors. Despite their potential, CBBMs have not received sufficient attention globally, and their adoption is hindered by various barriers. However, it is unclear what the CBBMs' use status is, what adoption barriers exist, how these barriers interact, and what should be done to address them. This study addresses these knowledge gaps through a systematic study using mixed methods to investigate the adoption status and barriers to these materials in developed economies by using a specific case analysis in Flanders. The data analysis results show that hemp-based, cork-based, and straw-based materials are the most used, while the market for CBBMs is very limited in the region. Twenty-three potential adoption barriers were identified and selected from the existing literature, then ranked based on their mean scores. The t-test analysis helps to identify 13 critical barriers, which are grouped into five categories, including cost and risk-related barriers, technical and cultural-related barriers, the government's role-related barriers, information and quality-related barriers, and market-related barriers. Among them, cost and risk-related barriers, including “concern about the high initial cost”, “risks and uncertainties involved in adopting new materials”, and “perception of the extra cost being incurred”, are the three most critical barriers to CBBM adoption in Flanders. Kendall's W test shows good consensus among the two expert groups—with and without hands-on experience in utilising CBBMs—in their rankings of the barriers. Meanwhile, the Mann-Whitney U test indicates no statistically significant differences in the ranks of barriers between the two expert groups. The interview results confirm almost all survey results and provide deeper insights into the status and barriers to adopting these materials. Practical and policy implications are discussed based on these findings to inform policy deliberations on promoting CBBMs. This study may also be a good reference for scholars and industry practitioners to better understand issues impacting decision-making towards the adoption of CBBMs in the construction industry.
+Keywords: Circular bio-based building materials; Biowaste valorisation; Sustainable construction; Climate change; Barriers; Developed economies
+
+Weam S.K. Abudaqqa, Chandra Mouli R. Madhuranthakam, Omar Chaalal,
+Algae-based membrane bioreactors: A mini review on their progress and processes for wastewater treatment,
+Journal of Water Process Engineering,
+Volume 59,
+2024,
+104937,
+ISSN 2214-7144,
+https://doi.org/10.1016/j.jwpe.2024.104937.
+(https://www.sciencedirect.com/science/article/pii/S2214714424001697)
+Abstract: Algal-based membrane bioreactors (AMBRs) have recently received extensive research interest as a cutting-edge water and wastewater treatment technology, offering potential advantages including cost-effectiveness over other conventional processes. Algal membrane removal processes combine physical filtration, adsorption, and biological degradation to provide efficient pollutant removal from water sources, mainly combined activated sludge processing, making AMBRs a significant tool in wastewater treatment. However, there have been many challenges in the design, development, and processing of algal membranes, such as membrane material selection, membrane layout, hydraulic condition optimization, and, most importantly, fouling. Overcoming these obstacles is critical for increasing the performance and durability of algal-based membranes. The future prospects for algal membrane bioreactors include incorporating advanced treatment methods, such as membrane bioreactors and forward osmosis, to improve water quality and resource recovery. Furthermore, developing nanomaterials and improved production techniques allows for future developments in algal-based membrane bioreactors. This study takes an in-depth examination of AMBRs, focusing exclusively on their removal mechanisms, fabrication obstacles, future prospects, and manufacturing techniques. This study also discusses useful insights into the existing state of art problems, and future possibilities of algal-based membrane bioreactors, emphasizing its promise as a sustainable and effective water treatment and resource management technology.
+Keywords: Algal-based membrane bioreactor; Wastewater treatment; Economic analysis; Removal strategies; Fabrication methods; Environmental processes
+
+P.R. Yaashikaa, P. Senthil Kumar, A. Saravanan, S. Karishma, Gayathri Rangasamy,
+A biotechnological roadmap for decarbonization systems combined into bioenergy production: Prelude of environmental life-cycle assessment,
+Chemosphere,
+Volume 329,
+2023,
+138670,
+ISSN 0045-6535,
+https://doi.org/10.1016/j.chemosphere.2023.138670.
+(https://www.sciencedirect.com/science/article/pii/S0045653523009372)
+Abstract: Decarbonization has become a critical issue in recent years due to rising energy demands and diminishing oil resources. Decarbonization systems based on biotechnology have proven to be a cost-effective and environmentally benign technique of lowering carbon emissions. Bioenergy generation is an environmentally friendly technique for mitigating climate change in the energy industry, and it is predicted to play an important role in lowering global carbon emissions. This review essentially provides a new perspective on the unique biotechnological approaches and strategies based decarbonization pathways. Furthermore, the application of genetically engineered microbes in CO2 biomitigation and energy generation is particularly emphasized. The production of biohydrogen and biomethane via anaerobic digestion techniques has been highlighted in the perspective. In this review, role of microorganisms in bioconversion of CO2 into different types of bioproducts such as biochemical, biopolymers, biosolvents and biosurfactant was summarized. The current analysis, which includes an in-depth discussion of a biotechnology-based roadmap for the bioeconomy, provides a clear picture of sustainability, forthcoming challenges, and perspectives.
+Keywords: Bioenergy; CO2 decarbonization; Bioproducts; Renewable energy; Bioeconomy
+
+Gemma Durán-Romero, Ana M. López, Tatiana Beliaeva, Marcos Ferasso, Christophe Garonne, Paul Jones,
+Bridging the gap between circular economy and climate change mitigation policies through eco-innovations and Quintuple Helix Model,
+Technological Forecasting and Social Change,
+Volume 160,
+2020,
+120246,
+ISSN 0040-1625,
+https://doi.org/10.1016/j.techfore.2020.120246.
+(https://www.sciencedirect.com/science/article/pii/S0040162520310726)
+Abstract: Climate change represents an increasing threat to society and demands collaborative actions for changing technologies, production methods, and consumption. The concept of Circular Economy (CE) emerged aiming to increase the resource use efficiency and minimize resource inputs, waste and emissions generation. However, the contribution of CE eco-innovations to climate change mitigation goals, pushed by the Quintuple Helix Model (QHM) actors, is still unknown. This analytical review intends to fulfil this gap by investigating the main elements of the QHM that contribute to CE eco-innovations, namely companies, government, society, academia, and the natural environment. An analytical framework and theoretical propositions for future research are proposed. Eco-innovation technologies from energy, waste, transportation, construction and manufacturing sectors are discussed. Practical recommendations and implications for policymakers associated with CE and climate change policies and their interrelationship in terms of eco-innovations are also provided.
+Keywords: Eco-innovation; Quintuple Helix Model; Climate change; Circular economy; Energy efficiency; Material efficiency; Sustainability; Sustainable business model
+
+Riccardo Macchioni, Clelia Fiondella, Martina Prisco,
+The value relevance of environmental innovation: Evidence from European Union context,
+Journal of Cleaner Production,
+Volume 446,
+2024,
+141246,
+ISSN 0959-6526,
+https://doi.org/10.1016/j.jclepro.2024.141246.
+(https://www.sciencedirect.com/science/article/pii/S0959652624006930)
+Abstract: The 2030 Agenda for Sustainable Development has encouraged firms to develop innovations in order to reduce their impact on environment. Based on a sample of 492 non-financial listed firms in European Union, we examine the value relevance of environmental innovation over the 2016–2021 period. Results show an inverted U-shaped association suggesting that environmental innovation increases market value until a certain threshold. We also document that this optimum level is lower for smaller firms compared to larger firms and for firms from carbon-intensive industries compared to firms from low-carbon-intensive industries. Our study adds to the growing body of literature on environmental innovation, showing theoretical and empirical support for its beneficial role on market-based performance. It further provides practical implications for managers and investors.
+Keywords: Environmental innovation; Value relevance; Inverted U-Shaped association; European Union
+
+Yusen Luo, Muhammad Salman, Zhengnan Lu,
+Heterogeneous impacts of environmental regulations and foreign direct investment on green innovation across different regions in China,
+Science of The Total Environment,
+Volume 759,
+2021,
+143744,
+ISSN 0048-9697,
+https://doi.org/10.1016/j.scitotenv.2020.143744.
+(https://www.sciencedirect.com/science/article/pii/S0048969720372752)
+Abstract: Green innovation (GI) is an important way to realize the sustainable development. This paper contributes to the existing literature by analyzing the effects of different environmental regulations on green innovation from a heterogeneous perspective. We also compare the impacts of indigenous innovation input and foreign technology spillover on green innovation. The dataset of this paper covers a panel of China's 30 provinces from 2003 to 2017. The results of Systematic Generalized Method of Moments (SYS-GMM) show that command-and-control regulation (CER) and informal regulation (IER) have significant “Porter's effect” on green innovation while market-based regulation (MER) negatively affects green innovation in China. Inward foreign direct investment (IFDI) plays a positive role in developing China's green innovation thus, validating the “Pollution Halo hypothesis”. Outward direct investment (OFDI) has a reverse green technique effect on China's green innovation. In addition, the positive effect of indigenous innovation input on green innovation is larger than that of foreign technology spillover from IFDI and OFDI. Moreover, the strengthening of CER weakens the positive effect of IFDI on green innovation. By contrast, the increase of IER can promote the reverse green technology spillover effect of OFDI on green innovation. On the basis of results, the government should attract green inward FDI and invest on foreign technology-intensive industries to obtain green technology spillover and stimulate green innovation.
+Keywords: Environmental regulation; Outward Foreign Direct Investment; Green innovation
+
+Neil J. Rowan, Orla Casey,
+Empower Eco multiactor HUB: A triple helix ‘academia-industry-authority’ approach to creating and sharing potentially disruptive tools for addressing novel and emerging new Green Deal opportunities under a United Nations Sustainable Development Goals framework,
+Current Opinion in Environmental Science & Health,
+Volume 21,
+2021,
+100254,
+ISSN 2468-5844,
+https://doi.org/10.1016/j.coesh.2021.100254.
+(https://www.sciencedirect.com/science/article/pii/S246858442100026X)
+Abstract: There is a pressing drive to address climate change and environmental degradation that are global existential threats. Europe has strategically responded by unifying efforts to transform its connected communities into a modern, resource-efficient and competitive economy with a trajectory to enable net nil greenhouse gas emissions by 2050; thus, ensuring economic growth is decoupled from resource utilisation, and that no person or place is left behind. The European Green Deal is an ambitious plan to make the European economy sustainable; however, there is no reference blue-print for the safe and just transitioning to a low carbon economy. This constitutes the first description of a triple helix (academic-industry-authority) concept underpinning operation of multiactor innovation hub that can be strategically applied to enable this transition that develops green innovation and enterprises. Innovative tools for meeting the United Nations’ Sustainable Development Goals are informed by appropriate technology, policy and society readiness levels from idea to final market/wider society deployment. “Empower-Eco Sustainability HUB,” is a digitised “living lab” established in the Irish peatlands that converges academia, communities, social enterprises, industries, policy and decision-makers. It develops green innovation in intended environments at demo/test-beds, such as for digital, agri-food, bioeconomy and bio-based sectors, and embraces climate-proofing and COVID-19 recovery.
+Keywords: Just transition; New Green Deal; Sustainability; Open research; Multiactor hub; Circularity; UN Sustainable Development Goals
+
+Natpatsaya Setthachotsombut, Komson Sommanawat, Gritsada Sua-iam,
+Logistics business management of provider in Thailand with smart logistics,
+Journal of Open Innovation: Technology, Market, and Complexity,
+Volume 10, Issue 4,
+2024,
+100422,
+ISSN 2199-8531,
+https://doi.org/10.1016/j.joitmc.2024.100422.
+(https://www.sciencedirect.com/science/article/pii/S2199853124002166)
+Abstract: The objective of this study is to validate the model fitness in Thailand for logistics business management related to the adoption of Smart Logistics (SLAPR) and its influence, in respect of service providers, thus coming up with a decision-making plan. The quantitative research was employed in the process, and the sample size is six large logistics service providers, 400 respondents in Thailand. The research instrument consisted of a five-section questionnaire with a total number of questions of 108. A number of statistical methods were employed for data analysis, including the usage of structural equation modeling (SEM). The model consists of four constructs: Smart Logistics: Administration and Management (SLA), Smart Logistics: People Management (SLP), Smart Logistics: Rooms and Working Space Management (SLR), and Performance (PSH). The model fits satisfactorily and is therefore appropriate for strategic use in large logistics firms in Thailand engaged in the provision of international logistics services including maritime and air freight, dangerous goods transportation, port services for exports, warehouse renting services, customs clearance, and supply chain management from upstream to downstream. This study identifies the performance outcomes: reducing errors, cost reduction, reducing complexity, labor reduction, and operational efficiency improvement. PSH is directly influenced by the SLA construct with a direct effect (DE) value of 0.82. The results of the above results explained that company executives have to implement Smart Logistics as soon as possible so that results are achievable in one year.
+Keywords: Logistics business management; Provider in Thailand; Smart logistics
